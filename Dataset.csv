@@ -1,0 +1,32 @@
+order_id,order_date,customer_id,region,state,product,category,quantity,unit_price,total_value,profit
+,2023-01-05,C001,Sudeste,SP,Notebook Gamer,Eletrônicos,1,4500,4500,800
+1002,,C002,Sul,RJ,Mouse Wireless,Acessórios,2,120,240,90
+1003,2023-01-10,,Sudeste,MG,Teclado Mecânico,Acessórios,1,350,350,120
+1004,2023-01-15,C004,,BA,Monitor 24,Eletrônicos,2,900,1800,300
+1005,2023-01-18,C005,Sul,,Fone Bluetooth,Acessórios,3,200,600,180
+1006,2023-02-02,C006,Sudeste,SP,,Eletrônicos,1,5200,5200,900
+1007,2023-02-05,C007,Norte,PA,Mousepad Gamer,,4,60,240,70
+1008,2023-02-10,C008,Centro-Oeste,GO,Cadeira Gamer,Móveis,,1200,1200,250
+1009,2023-02-14,C009,Sudeste,RJ,Webcam HD,Eletrônicos,2,,600,140
+1010,2023-02-20,C010,Nordeste,PE,Headset Gamer,Acessórios,1,400,,110
+1011,2023-03-01,C011,Sul,RS,Monitor 27,Eletrônicos,1,1500,1500,
+1012,2023-03-05,C012,Sudeste,SP,Teclado Mecânico,Acessórios,2,350,700,240
+1013,2023-03-10,C013,Centro-Oeste,DF,Notebook Corporativo,Eletrônicos,1,4800,4800,850
+1014,2023-03-15,C014,Norte,AM,Fone Bluetooth,Acessórios,2,220,440,120
+1015,2023-03-20,C015,Nordeste,CE,Mouse Wireless,Acessórios,3,130,390,150
+1016,2023-04-02,C016,Sudeste,SP,Cadeira Gamer,Móveis,1,1350,1350,300
+1017,2023-04-06,C017,Sul,SC,Notebook Gamer,Eletrônicos,1,4700,4700,820
+1018,2023-04-10,C018,Sudeste,MG,Webcam HD,Eletrônicos,1,320,320,80
+1019,2023-04-14,C019,Nordeste,BA,Monitor 24,Eletrônicos,1,950,950,180
+1020,2023-04-18,C020,Sudeste,RJ,Headset Gamer,Acessórios,2,420,840,220
+1021,2023-05-01,C021,Centro-Oeste,GO,Teclado Mecânico,Acessórios,1,370,370,130
+1022,2023-05-06,C022,Sudeste,SP,Notebook Ultrafino,Eletrônicos,1,5300,5300,920
+1023,2023-05-10,C023,Norte,PA,Mouse Wireless,Acessórios,5,110,550,200
+1024,2023-05-15,C024,Sul,PR,Monitor 27,Eletrônicos,1,1550,1550,300
+1025,2023-05-20,C025,Nordeste,PE,Fone Bluetooth,Acessórios,4,210,840,260
+1026,2023-06-01,C026,Sudeste,SP,Cadeira Gamer,Móveis,2,1250,2500,520
+1027,2023-06-05,C027,Sul,RS,Notebook Corporativo,Eletrônicos,1,4900,4900,880
+1028,2023-06-10,C028,Sudeste,MG,Headset Gamer,Acessórios,1,430,430,120
+1029,2023-06-14,C029,Nordeste,CE,Mousepad Gamer,Acessórios,6,65,390,110
+1030,2023-06-20,C030,Centro-Oeste,DF,Webcam HD,Eletrônicos,2,310,620,160
+1030,2023-06-20,C030,Centro-Oeste,DF,Webcam HD,Eletrônicos,2,310,620,160
