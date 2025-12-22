@@ -1,0 +1,1001 @@
+Codigo_Venda,Data,ID_Loja,Produto,Quantidade,Valor_Unitario,Valor_Final,Preco_Custo,Estado,Regiao
+1,09/10/2021,Fortaleza Tech,Teclado Mecânico Redragon,3,350,1050,220,Ceará,Nordeste
+2,09/10/2021,Belém Info,Memória RAM 16GB,2,480,960,330,Pará,Norte
+3,14/09/2021,RJ Centro,Teclado Mecânico Redragon,2,350,700,220,Rio de Janeiro,Sudeste
+4,06/10/2021,Fortaleza Tech,Webcam Full HD,2,310,620,210,Ceará,Nordeste
+5,31/08/2021,BH Mall,Teclado Mecânico Redragon,1,350,350,220,Minas Gerais,Sudeste
+6,20/09/2021,Salvador Store,HD Externo 2TB,1,450,450,320,Bahia,Nordeste
+7,14/10/2021,Manaus Digital,"Monitor Samsung 27""",2,1350,2700,980,Amazonas,Norte
+8,13/10/2021,Belém Info,Headset HyperX,1,420,420,260,Pará,Norte
+9,17/10/2021,SP Market,Webcam Full HD,2,310,620,210,São Paulo,Sudeste
+10,14/10/2021,Fortaleza Tech,Cadeira Gamer,2,1550,3100,1100,Ceará,Nordeste
+11,11/10/2021,SP Market,Memória RAM 16GB,2,480,960,330,São Paulo,Sudeste
+12,29/08/2021,Salvador Store,Mousepad Gamer,2,90,180,40,Bahia,Nordeste
+13,30/08/2021,RJ Centro,Teclado sem fio Logitech,3,290,870,190,Rio de Janeiro,Sudeste
+14,05/10/2021,Porto Alegre Shop,"Monitor Samsung 27""",3,1350,4050,980,Rio Grande do Sul,Sul
+15,30/08/2021,BH Mall,HD Externo 2TB,2,450,900,320,Minas Gerais,Sudeste
+16,23/08/2021,SP Market,Memória RAM 16GB,1,480,480,330,São Paulo,Sudeste
+17,24/08/2021,Fortaleza Tech,Notebook Dell i5,2,4200,8400,3500,Ceará,Nordeste
+18,23/08/2021,Fortaleza Tech,Notebook Dell i5,1,4200,4200,3500,Ceará,Nordeste
+19,02/09/2021,Manaus Digital,HD Externo 2TB,1,450,450,320,Amazonas,Norte
+20,30/08/2021,Fortaleza Tech,"Monitor LG 24""",1,950,950,720,Ceará,Nordeste
+21,31/08/2021,SP Market,Mousepad Gamer,3,90,270,40,São Paulo,Sudeste
+22,23/09/2021,Recife Center,Notebook Dell i5,1,4200,4200,3500,Pernambuco,Nordeste
+23,25/08/2021,Belém Info,"Monitor LG 24""",1,950,950,720,Pará,Norte
+24,10/10/2021,Porto Alegre Shop,HD Externo 2TB,3,450,1350,320,Rio Grande do Sul,Sul
+25,20/08/2021,BH Mall,Teclado Mecânico Redragon,2,350,700,220,Minas Gerais,Sudeste
+26,11/09/2021,Salvador Store,Mouse Logitech,1,180,180,80,Bahia,Nordeste
+27,01/09/2021,BH Mall,Mousepad Gamer,2,90,180,40,Minas Gerais,Sudeste
+28,04/10/2021,SP Market,Mouse Logitech,1,180,180,80,São Paulo,Sudeste
+29,15/09/2021,Manaus Digital,Memória RAM 16GB,1,480,480,330,Amazonas,Norte
+30,19/10/2021,BH Mall,Cadeira Gamer,2,1550,3100,1100,Minas Gerais,Sudeste
+31,28/09/2021,Belém Info,"Monitor Samsung 27""",1,1350,1350,980,Pará,Norte
+32,30/09/2021,Fortaleza Tech,Teclado sem fio Logitech,1,290,290,190,Ceará,Nordeste
+33,20/08/2021,RJ Centro,Teclado sem fio Logitech,2,290,580,190,Rio de Janeiro,Sudeste
+34,06/09/2021,Salvador Store,Headset HyperX,1,420,420,260,Bahia,Nordeste
+35,21/08/2021,BH Mall,Mouse Logitech,2,180,360,80,Minas Gerais,Sudeste
+36,22/09/2021,Manaus Digital,Memória RAM 16GB,2,480,960,330,Amazonas,Norte
+37,13/09/2021,SP Market,Headset HyperX,3,420,1260,260,São Paulo,Sudeste
+38,29/09/2021,Belém Info,Mouse Logitech,1,180,180,80,Pará,Norte
+39,06/09/2021,BH Mall,SSD Kingston 1TB,1,520,520,380,Minas Gerais,Sudeste
+40,02/10/2021,BH Mall,Cadeira Gamer,3,1550,4650,1100,Minas Gerais,Sudeste
+41,14/09/2021,Fortaleza Tech,Memória RAM 16GB,2,480,960,330,Ceará,Nordeste
+42,16/09/2021,RJ Centro,Notebook Dell i5,3,4200,12600,3500,Rio de Janeiro,Sudeste
+43,01/10/2021,Manaus Digital,Microfone Condensador,3,260,780,170,Amazonas,Norte
+44,07/09/2021,RJ Centro,"Monitor LG 24""",1,950,950,720,Rio de Janeiro,Sudeste
+45,16/09/2021,SP Market,"Monitor LG 24""",1,950,950,720,São Paulo,Sudeste
+46,12/10/2021,Belém Info,Mouse Logitech,3,180,540,80,Pará,Norte
+47,25/08/2021,RJ Centro,Teclado sem fio Logitech,3,290,870,190,Rio de Janeiro,Sudeste
+48,07/10/2021,BH Mall,"Monitor LG 24""",3,950,2850,720,Minas Gerais,Sudeste
+49,13/10/2021,Curitiba Tech,Memória RAM 16GB,2,480,960,330,Paraná,Sul
+50,28/09/2021,RJ Centro,Notebook Dell i5,2,4200,8400,3500,Rio de Janeiro,Sudeste
+51,05/09/2021,Recife Center,Mouse Logitech,3,180,540,80,Pernambuco,Nordeste
+52,18/09/2021,BH Mall,Teclado Mecânico Redragon,3,350,1050,220,Minas Gerais,Sudeste
+53,29/09/2021,Manaus Digital,"Monitor Samsung 27""",1,1350,1350,980,Amazonas,Norte
+54,04/10/2021,Manaus Digital,Webcam Full HD,3,310,930,210,Amazonas,Norte
+55,18/10/2021,BH Mall,Microfone Condensador,1,260,260,170,Minas Gerais,Sudeste
+56,29/08/2021,Manaus Digital,Microfone Condensador,1,260,260,170,Amazonas,Norte
+57,11/09/2021,Manaus Digital,SSD Kingston 1TB,2,520,1040,380,Amazonas,Norte
+58,11/10/2021,BH Mall,HD Externo 2TB,3,450,1350,320,Minas Gerais,Sudeste
+59,27/09/2021,Manaus Digital,SSD Kingston 1TB,1,520,520,380,Amazonas,Norte
+60,20/08/2021,Porto Alegre Shop,Cadeira Gamer,3,1550,4650,1100,Rio Grande do Sul,Sul
+61,04/09/2021,Salvador Store,Cadeira Gamer,2,1550,3100,1100,Bahia,Nordeste
+62,15/10/2021,Belém Info,"Monitor Samsung 27""",1,1350,1350,980,Pará,Norte
+63,14/10/2021,Salvador Store,Cadeira Gamer,2,1550,3100,1100,Bahia,Nordeste
+64,18/10/2021,Porto Alegre Shop,Mouse Logitech,2,180,360,80,Rio Grande do Sul,Sul
+65,13/09/2021,Manaus Digital,"Monitor Samsung 27""",2,1350,2700,980,Amazonas,Norte
+66,27/09/2021,Manaus Digital,Teclado sem fio Logitech,1,290,290,190,Amazonas,Norte
+67,10/10/2021,Curitiba Tech,Notebook Dell i5,2,4200,8400,3500,Paraná,Sul
+68,05/09/2021,Salvador Store,Mouse Logitech,2,180,360,80,Bahia,Nordeste
+69,16/10/2021,Porto Alegre Shop,"Monitor LG 24""",2,950,1900,720,Rio Grande do Sul,Sul
+70,16/09/2021,Belém Info,Mouse Logitech,2,180,360,80,Pará,Norte
+71,10/09/2021,Fortaleza Tech,Microfone Condensador,2,260,520,170,Ceará,Nordeste
+72,23/08/2021,Salvador Store,Teclado sem fio Logitech,3,290,870,190,Bahia,Nordeste
+73,19/10/2021,Belém Info,Cadeira Gamer,3,1550,4650,1100,Pará,Norte
+74,06/09/2021,RJ Centro,"Monitor LG 24""",3,950,2850,720,Rio de Janeiro,Sudeste
+75,27/08/2021,Belém Info,Notebook Dell i5,2,4200,8400,3500,Pará,Norte
+76,26/09/2021,Porto Alegre Shop,Mousepad Gamer,3,90,270,40,Rio Grande do Sul,Sul
+77,12/09/2021,Belém Info,Microfone Condensador,3,260,780,170,Pará,Norte
+78,28/08/2021,Porto Alegre Shop,Webcam Full HD,3,310,930,210,Rio Grande do Sul,Sul
+79,02/09/2021,Manaus Digital,Mousepad Gamer,2,90,180,40,Amazonas,Norte
+80,07/10/2021,Belém Info,"Monitor LG 24""",3,950,2850,720,Pará,Norte
+81,14/09/2021,Salvador Store,HD Externo 2TB,3,450,1350,320,Bahia,Nordeste
+82,12/09/2021,Salvador Store,Microfone Condensador,2,260,520,170,Bahia,Nordeste
+83,18/10/2021,RJ Centro,Cadeira Gamer,3,1550,4650,1100,Rio de Janeiro,Sudeste
+84,16/10/2021,BH Mall,SSD Kingston 1TB,1,520,520,380,Minas Gerais,Sudeste
+85,08/10/2021,Curitiba Tech,Teclado Mecânico Redragon,1,350,350,220,Paraná,Sul
+86,03/09/2021,BH Mall,Cadeira Gamer,2,1550,3100,1100,Minas Gerais,Sudeste
+87,30/08/2021,Porto Alegre Shop,Memória RAM 16GB,3,480,1440,330,Rio Grande do Sul,Sul
+88,17/09/2021,RJ Centro,Cadeira Gamer,2,1550,3100,1100,Rio de Janeiro,Sudeste
+89,13/10/2021,Curitiba Tech,Webcam Full HD,2,310,620,210,Paraná,Sul
+90,27/08/2021,Recife Center,Webcam Full HD,1,310,310,210,Pernambuco,Nordeste
+91,19/09/2021,Fortaleza Tech,"Monitor Samsung 27""",1,1350,1350,980,Ceará,Nordeste
+92,08/09/2021,Salvador Store,SSD Kingston 1TB,2,520,1040,380,Bahia,Nordeste
+93,04/10/2021,RJ Centro,Teclado sem fio Logitech,3,290,870,190,Rio de Janeiro,Sudeste
+94,28/09/2021,Recife Center,Teclado sem fio Logitech,3,290,870,190,Pernambuco,Nordeste
+95,26/09/2021,Manaus Digital,Headset HyperX,3,420,1260,260,Amazonas,Norte
+96,20/09/2021,Porto Alegre Shop,Teclado Mecânico Redragon,2,350,700,220,Rio Grande do Sul,Sul
+97,05/10/2021,RJ Centro,"Monitor Samsung 27""",2,1350,2700,980,Rio de Janeiro,Sudeste
+98,22/08/2021,Porto Alegre Shop,Headset HyperX,3,420,1260,260,Rio Grande do Sul,Sul
+99,28/09/2021,Curitiba Tech,HD Externo 2TB,2,450,900,320,Paraná,Sul
+100,05/10/2021,Curitiba Tech,Notebook Dell i5,1,4200,4200,3500,Paraná,Sul
+101,17/10/2021,BH Mall,Teclado sem fio Logitech,1,290,290,190,Minas Gerais,Sudeste
+102,01/09/2021,Salvador Store,Mousepad Gamer,3,90,270,40,Bahia,Nordeste
+103,22/08/2021,RJ Centro,SSD Kingston 1TB,3,520,1560,380,Rio de Janeiro,Sudeste
+104,25/08/2021,Manaus Digital,Mouse Logitech,3,180,540,80,Amazonas,Norte
+105,24/08/2021,Recife Center,Cadeira Gamer,3,1550,4650,1100,Pernambuco,Nordeste
+106,09/09/2021,Belém Info,Microfone Condensador,2,260,520,170,Pará,Norte
+107,03/09/2021,SP Market,Microfone Condensador,2,260,520,170,São Paulo,Sudeste
+108,10/10/2021,SP Market,"Monitor Samsung 27""",2,1350,2700,980,São Paulo,Sudeste
+109,07/10/2021,BH Mall,Teclado Mecânico Redragon,2,350,700,220,Minas Gerais,Sudeste
+110,19/10/2021,RJ Centro,Teclado sem fio Logitech,3,290,870,190,Rio de Janeiro,Sudeste
+111,09/10/2021,Porto Alegre Shop,Cadeira Gamer,3,1550,4650,1100,Rio Grande do Sul,Sul
+112,17/09/2021,RJ Centro,Headset HyperX,2,420,840,260,Rio de Janeiro,Sudeste
+113,16/10/2021,Curitiba Tech,Webcam Full HD,1,310,310,210,Paraná,Sul
+114,31/08/2021,Recife Center,Mouse Logitech,2,180,360,80,Pernambuco,Nordeste
+115,05/09/2021,Fortaleza Tech,Mouse Logitech,2,180,360,80,Ceará,Nordeste
+116,07/10/2021,BH Mall,Notebook Dell i5,1,4200,4200,3500,Minas Gerais,Sudeste
+117,02/09/2021,Recife Center,Mousepad Gamer,2,90,180,40,Pernambuco,Nordeste
+118,13/09/2021,Belém Info,"Monitor Samsung 27""",1,1350,1350,980,Pará,Norte
+119,16/09/2021,Porto Alegre Shop,Mouse Logitech,1,180,180,80,Rio Grande do Sul,Sul
+120,18/10/2021,SP Market,Webcam Full HD,2,310,620,210,São Paulo,Sudeste
+121,03/10/2021,Fortaleza Tech,HD Externo 2TB,2,450,900,320,Ceará,Nordeste
+122,12/10/2021,Salvador Store,Mousepad Gamer,2,90,180,40,Bahia,Nordeste
+123,25/09/2021,Salvador Store,Headset HyperX,3,420,1260,260,Bahia,Nordeste
+124,09/09/2021,Salvador Store,Headset HyperX,2,420,840,260,Bahia,Nordeste
+125,27/08/2021,BH Mall,"Monitor Samsung 27""",2,1350,2700,980,Minas Gerais,Sudeste
+126,27/09/2021,Recife Center,"Monitor Samsung 27""",2,1350,2700,980,Pernambuco,Nordeste
+127,25/09/2021,Fortaleza Tech,Notebook Dell i5,3,4200,12600,3500,Ceará,Nordeste
+128,23/09/2021,Fortaleza Tech,Cadeira Gamer,3,1550,4650,1100,Ceará,Nordeste
+129,11/10/2021,Curitiba Tech,Mousepad Gamer,1,90,90,40,Paraná,Sul
+130,28/09/2021,Recife Center,Webcam Full HD,1,310,310,210,Pernambuco,Nordeste
+131,26/08/2021,Porto Alegre Shop,SSD Kingston 1TB,2,520,1040,380,Rio Grande do Sul,Sul
+132,10/10/2021,RJ Centro,"Monitor Samsung 27""",3,1350,4050,980,Rio de Janeiro,Sudeste
+133,26/08/2021,Belém Info,Teclado sem fio Logitech,3,290,870,190,Pará,Norte
+134,22/08/2021,RJ Centro,SSD Kingston 1TB,1,520,520,380,Rio de Janeiro,Sudeste
+135,29/09/2021,Curitiba Tech,Teclado Mecânico Redragon,3,350,1050,220,Paraná,Sul
+136,19/10/2021,BH Mall,Mousepad Gamer,2,90,180,40,Minas Gerais,Sudeste
+137,11/09/2021,Porto Alegre Shop,Notebook Dell i5,3,4200,12600,3500,Rio Grande do Sul,Sul
+138,12/10/2021,Manaus Digital,Mouse Logitech,1,180,180,80,Amazonas,Norte
+139,23/08/2021,RJ Centro,"Monitor LG 24""",3,950,2850,720,Rio de Janeiro,Sudeste
+140,09/09/2021,Salvador Store,Headset HyperX,1,420,420,260,Bahia,Nordeste
+141,09/09/2021,Recife Center,Notebook Dell i5,2,4200,8400,3500,Pernambuco,Nordeste
+142,07/10/2021,Salvador Store,Notebook Dell i5,3,4200,12600,3500,Bahia,Nordeste
+143,14/09/2021,Belém Info,Microfone Condensador,3,260,780,170,Pará,Norte
+144,13/09/2021,Curitiba Tech,Mouse Logitech,1,180,180,80,Paraná,Sul
+145,29/09/2021,Fortaleza Tech,Memória RAM 16GB,1,480,480,330,Ceará,Nordeste
+146,28/08/2021,Porto Alegre Shop,"Monitor LG 24""",2,950,1900,720,Rio Grande do Sul,Sul
+147,17/10/2021,Manaus Digital,HD Externo 2TB,1,450,450,320,Amazonas,Norte
+148,26/08/2021,BH Mall,Cadeira Gamer,1,1550,1550,1100,Minas Gerais,Sudeste
+149,30/08/2021,Belém Info,Mousepad Gamer,1,90,90,40,Pará,Norte
+150,07/10/2021,BH Mall,Memória RAM 16GB,1,480,480,330,Minas Gerais,Sudeste
+151,12/09/2021,Belém Info,Headset HyperX,2,420,840,260,Pará,Norte
+152,24/09/2021,RJ Centro,Microfone Condensador,3,260,780,170,Rio de Janeiro,Sudeste
+153,23/09/2021,BH Mall,"Monitor LG 24""",2,950,1900,720,Minas Gerais,Sudeste
+154,13/10/2021,Belém Info,Mouse Logitech,3,180,540,80,Pará,Norte
+155,09/10/2021,Recife Center,SSD Kingston 1TB,1,520,520,380,Pernambuco,Nordeste
+156,27/09/2021,Fortaleza Tech,Webcam Full HD,1,310,310,210,Ceará,Nordeste
+157,17/10/2021,Curitiba Tech,Webcam Full HD,2,310,620,210,Paraná,Sul
+158,25/08/2021,Porto Alegre Shop,Teclado sem fio Logitech,1,290,290,190,Rio Grande do Sul,Sul
+159,24/08/2021,RJ Centro,Cadeira Gamer,2,1550,3100,1100,Rio de Janeiro,Sudeste
+160,03/10/2021,Fortaleza Tech,Teclado Mecânico Redragon,3,350,1050,220,Ceará,Nordeste
+161,02/09/2021,Recife Center,Teclado Mecânico Redragon,2,350,700,220,Pernambuco,Nordeste
+162,17/09/2021,Salvador Store,Memória RAM 16GB,3,480,1440,330,Bahia,Nordeste
+163,17/09/2021,Manaus Digital,"Monitor LG 24""",2,950,1900,720,Amazonas,Norte
+164,08/09/2021,BH Mall,Teclado Mecânico Redragon,3,350,1050,220,Minas Gerais,Sudeste
+165,21/09/2021,Porto Alegre Shop,SSD Kingston 1TB,1,520,520,380,Rio Grande do Sul,Sul
+166,12/10/2021,BH Mall,"Monitor Samsung 27""",1,1350,1350,980,Minas Gerais,Sudeste
+167,12/10/2021,BH Mall,Microfone Condensador,3,260,780,170,Minas Gerais,Sudeste
+168,14/09/2021,Recife Center,Mousepad Gamer,3,90,270,40,Pernambuco,Nordeste
+169,20/09/2021,SP Market,"Monitor Samsung 27""",3,1350,4050,980,São Paulo,Sudeste
+170,19/09/2021,Salvador Store,Headset HyperX,1,420,420,260,Bahia,Nordeste
+171,08/09/2021,Belém Info,Notebook Dell i5,1,4200,4200,3500,Pará,Norte
+172,08/10/2021,Porto Alegre Shop,Headset HyperX,2,420,840,260,Rio Grande do Sul,Sul
+173,02/09/2021,Porto Alegre Shop,Cadeira Gamer,2,1550,3100,1100,Rio Grande do Sul,Sul
+174,30/08/2021,Manaus Digital,Headset HyperX,3,420,1260,260,Amazonas,Norte
+175,14/10/2021,SP Market,"Monitor Samsung 27""",1,1350,1350,980,São Paulo,Sudeste
+176,05/10/2021,RJ Centro,Cadeira Gamer,3,1550,4650,1100,Rio de Janeiro,Sudeste
+177,30/08/2021,BH Mall,Teclado Mecânico Redragon,2,350,700,220,Minas Gerais,Sudeste
+178,01/10/2021,SP Market,"Monitor Samsung 27""",3,1350,4050,980,São Paulo,Sudeste
+179,04/10/2021,RJ Centro,"Monitor Samsung 27""",2,1350,2700,980,Rio de Janeiro,Sudeste
+180,08/09/2021,Belém Info,HD Externo 2TB,3,450,1350,320,Pará,Norte
+181,02/09/2021,Belém Info,HD Externo 2TB,3,450,1350,320,Pará,Norte
+182,05/10/2021,Fortaleza Tech,Mouse Logitech,1,180,180,80,Ceará,Nordeste
+183,18/09/2021,Salvador Store,Microfone Condensador,2,260,520,170,Bahia,Nordeste
+184,23/08/2021,Curitiba Tech,Memória RAM 16GB,3,480,1440,330,Paraná,Sul
+185,06/10/2021,Belém Info,Memória RAM 16GB,2,480,960,330,Pará,Norte
+186,10/10/2021,BH Mall,Webcam Full HD,3,310,930,210,Minas Gerais,Sudeste
+187,02/10/2021,Recife Center,Teclado Mecânico Redragon,3,350,1050,220,Pernambuco,Nordeste
+188,09/09/2021,Fortaleza Tech,Mousepad Gamer,3,90,270,40,Ceará,Nordeste
+189,28/08/2021,BH Mall,Headset HyperX,1,420,420,260,Minas Gerais,Sudeste
+190,26/08/2021,Curitiba Tech,Memória RAM 16GB,2,480,960,330,Paraná,Sul
+191,02/10/2021,RJ Centro,Memória RAM 16GB,3,480,1440,330,Rio de Janeiro,Sudeste
+192,16/10/2021,Curitiba Tech,"Monitor LG 24""",2,950,1900,720,Paraná,Sul
+193,07/10/2021,Curitiba Tech,Teclado sem fio Logitech,3,290,870,190,Paraná,Sul
+194,21/09/2021,Porto Alegre Shop,"Monitor LG 24""",2,950,1900,720,Rio Grande do Sul,Sul
+195,17/10/2021,Recife Center,Teclado sem fio Logitech,1,290,290,190,Pernambuco,Nordeste
+196,18/10/2021,Manaus Digital,SSD Kingston 1TB,1,520,520,380,Amazonas,Norte
+197,06/09/2021,Manaus Digital,Microfone Condensador,2,260,520,170,Amazonas,Norte
+198,24/08/2021,Fortaleza Tech,"Monitor LG 24""",1,950,950,720,Ceará,Nordeste
+199,11/10/2021,RJ Centro,Webcam Full HD,2,310,620,210,Rio de Janeiro,Sudeste
+200,24/08/2021,RJ Centro,Microfone Condensador,2,260,520,170,Rio de Janeiro,Sudeste
+201,20/08/2021,Porto Alegre Shop,Mouse Logitech,3,180,540,80,Rio Grande do Sul,Sul
+202,10/10/2021,Belém Info,"Monitor LG 24""",2,950,1900,720,Pará,Norte
+203,24/08/2021,SP Market,Cadeira Gamer,3,1550,4650,1100,São Paulo,Sudeste
+204,14/09/2021,Belém Info,Teclado Mecânico Redragon,2,350,700,220,Pará,Norte
+205,02/09/2021,Salvador Store,Webcam Full HD,3,310,930,210,Bahia,Nordeste
+206,26/08/2021,BH Mall,Headset HyperX,2,420,840,260,Minas Gerais,Sudeste
+207,24/09/2021,RJ Centro,Microfone Condensador,3,260,780,170,Rio de Janeiro,Sudeste
+208,11/09/2021,BH Mall,Memória RAM 16GB,2,480,960,330,Minas Gerais,Sudeste
+209,08/10/2021,Recife Center,Teclado Mecânico Redragon,3,350,1050,220,Pernambuco,Nordeste
+210,18/09/2021,Curitiba Tech,"Monitor LG 24""",2,950,1900,720,Paraná,Sul
+211,14/10/2021,Recife Center,Headset HyperX,3,420,1260,260,Pernambuco,Nordeste
+212,12/10/2021,Recife Center,Notebook Dell i5,3,4200,12600,3500,Pernambuco,Nordeste
+213,01/10/2021,Porto Alegre Shop,SSD Kingston 1TB,2,520,1040,380,Rio Grande do Sul,Sul
+214,25/08/2021,Recife Center,Webcam Full HD,3,310,930,210,Pernambuco,Nordeste
+215,04/10/2021,Belém Info,Cadeira Gamer,2,1550,3100,1100,Pará,Norte
+216,28/08/2021,Belém Info,Mousepad Gamer,3,90,270,40,Pará,Norte
+217,27/09/2021,Manaus Digital,Mouse Logitech,2,180,360,80,Amazonas,Norte
+218,19/09/2021,Fortaleza Tech,Mousepad Gamer,3,90,270,40,Ceará,Nordeste
+219,17/10/2021,Recife Center,Cadeira Gamer,1,1550,1550,1100,Pernambuco,Nordeste
+220,13/10/2021,Recife Center,Headset HyperX,2,420,840,260,Pernambuco,Nordeste
+221,08/09/2021,Salvador Store,Notebook Dell i5,2,4200,8400,3500,Bahia,Nordeste
+222,23/08/2021,Curitiba Tech,Mouse Logitech,1,180,180,80,Paraná,Sul
+223,20/09/2021,SP Market,Headset HyperX,3,420,1260,260,São Paulo,Sudeste
+224,25/08/2021,Belém Info,Mousepad Gamer,2,90,180,40,Pará,Norte
+225,27/08/2021,Recife Center,SSD Kingston 1TB,3,520,1560,380,Pernambuco,Nordeste
+226,09/09/2021,SP Market,Mouse Logitech,2,180,360,80,São Paulo,Sudeste
+227,07/09/2021,SP Market,Microfone Condensador,2,260,520,170,São Paulo,Sudeste
+228,14/09/2021,Curitiba Tech,SSD Kingston 1TB,1,520,520,380,Paraná,Sul
+229,01/09/2021,Curitiba Tech,Microfone Condensador,3,260,780,170,Paraná,Sul
+230,27/09/2021,Recife Center,Webcam Full HD,3,310,930,210,Pernambuco,Nordeste
+231,13/10/2021,BH Mall,Notebook Dell i5,2,4200,8400,3500,Minas Gerais,Sudeste
+232,03/10/2021,SP Market,Notebook Dell i5,3,4200,12600,3500,São Paulo,Sudeste
+233,06/10/2021,SP Market,Teclado sem fio Logitech,1,290,290,190,São Paulo,Sudeste
+234,06/09/2021,Salvador Store,SSD Kingston 1TB,3,520,1560,380,Bahia,Nordeste
+235,11/10/2021,RJ Centro,Memória RAM 16GB,2,480,960,330,Rio de Janeiro,Sudeste
+236,20/09/2021,BH Mall,Memória RAM 16GB,1,480,480,330,Minas Gerais,Sudeste
+237,28/09/2021,Manaus Digital,Headset HyperX,1,420,420,260,Amazonas,Norte
+238,09/09/2021,RJ Centro,"Monitor LG 24""",2,950,1900,720,Rio de Janeiro,Sudeste
+239,10/10/2021,Belém Info,Webcam Full HD,3,310,930,210,Pará,Norte
+240,16/09/2021,Manaus Digital,Headset HyperX,2,420,840,260,Amazonas,Norte
+241,30/08/2021,Belém Info,Memória RAM 16GB,2,480,960,330,Pará,Norte
+242,10/10/2021,Fortaleza Tech,"Monitor LG 24""",1,950,950,720,Ceará,Nordeste
+243,10/10/2021,Recife Center,HD Externo 2TB,2,450,900,320,Pernambuco,Nordeste
+244,03/10/2021,Recife Center,Webcam Full HD,2,310,620,210,Pernambuco,Nordeste
+245,20/09/2021,Salvador Store,Teclado sem fio Logitech,3,290,870,190,Bahia,Nordeste
+246,17/09/2021,Manaus Digital,Cadeira Gamer,1,1550,1550,1100,Amazonas,Norte
+247,11/09/2021,Recife Center,Webcam Full HD,2,310,620,210,Pernambuco,Nordeste
+248,21/08/2021,Salvador Store,Notebook Dell i5,1,4200,4200,3500,Bahia,Nordeste
+249,26/08/2021,RJ Centro,Teclado sem fio Logitech,2,290,580,190,Rio de Janeiro,Sudeste
+250,02/09/2021,Curitiba Tech,Microfone Condensador,1,260,260,170,Paraná,Sul
+251,26/08/2021,BH Mall,"Monitor LG 24""",1,950,950,720,Minas Gerais,Sudeste
+252,22/08/2021,Curitiba Tech,Memória RAM 16GB,1,480,480,330,Paraná,Sul
+253,29/09/2021,Recife Center,Webcam Full HD,1,310,310,210,Pernambuco,Nordeste
+254,07/10/2021,BH Mall,Memória RAM 16GB,2,480,960,330,Minas Gerais,Sudeste
+255,01/10/2021,Belém Info,HD Externo 2TB,2,450,900,320,Pará,Norte
+256,17/09/2021,Fortaleza Tech,Webcam Full HD,2,310,620,210,Ceará,Nordeste
+257,03/09/2021,Manaus Digital,"Monitor Samsung 27""",1,1350,1350,980,Amazonas,Norte
+258,05/09/2021,BH Mall,Mousepad Gamer,3,90,270,40,Minas Gerais,Sudeste
+259,11/10/2021,Porto Alegre Shop,Mouse Logitech,3,180,540,80,Rio Grande do Sul,Sul
+260,29/09/2021,Porto Alegre Shop,"Monitor Samsung 27""",2,1350,2700,980,Rio Grande do Sul,Sul
+261,04/09/2021,Manaus Digital,Memória RAM 16GB,2,480,960,330,Amazonas,Norte
+262,17/10/2021,RJ Centro,Microfone Condensador,3,260,780,170,Rio de Janeiro,Sudeste
+263,27/08/2021,SP Market,Teclado Mecânico Redragon,2,350,700,220,São Paulo,Sudeste
+264,29/08/2021,RJ Centro,Teclado Mecânico Redragon,1,350,350,220,Rio de Janeiro,Sudeste
+265,24/08/2021,SP Market,Teclado Mecânico Redragon,2,350,700,220,São Paulo,Sudeste
+266,01/09/2021,Recife Center,Mousepad Gamer,3,90,270,40,Pernambuco,Nordeste
+267,22/08/2021,RJ Centro,Cadeira Gamer,1,1550,1550,1100,Rio de Janeiro,Sudeste
+268,11/10/2021,Manaus Digital,Headset HyperX,3,420,1260,260,Amazonas,Norte
+269,13/09/2021,Recife Center,Notebook Dell i5,3,4200,12600,3500,Pernambuco,Nordeste
+270,30/08/2021,BH Mall,Mousepad Gamer,3,90,270,40,Minas Gerais,Sudeste
+271,03/09/2021,BH Mall,Microfone Condensador,3,260,780,170,Minas Gerais,Sudeste
+272,05/10/2021,Fortaleza Tech,Teclado sem fio Logitech,1,290,290,190,Ceará,Nordeste
+273,13/09/2021,Curitiba Tech,Mousepad Gamer,2,90,180,40,Paraná,Sul
+274,25/09/2021,BH Mall,Cadeira Gamer,2,1550,3100,1100,Minas Gerais,Sudeste
+275,03/10/2021,Belém Info,SSD Kingston 1TB,1,520,520,380,Pará,Norte
+276,01/10/2021,Salvador Store,Cadeira Gamer,3,1550,4650,1100,Bahia,Nordeste
+277,25/09/2021,Manaus Digital,Notebook Dell i5,2,4200,8400,3500,Amazonas,Norte
+278,09/09/2021,RJ Centro,"Monitor LG 24""",3,950,2850,720,Rio de Janeiro,Sudeste
+279,29/09/2021,BH Mall,Memória RAM 16GB,2,480,960,330,Minas Gerais,Sudeste
+280,10/09/2021,Manaus Digital,Teclado sem fio Logitech,2,290,580,190,Amazonas,Norte
+281,25/09/2021,BH Mall,"Monitor LG 24""",3,950,2850,720,Minas Gerais,Sudeste
+282,04/10/2021,Salvador Store,Webcam Full HD,1,310,310,210,Bahia,Nordeste
+283,17/10/2021,RJ Centro,SSD Kingston 1TB,2,520,1040,380,Rio de Janeiro,Sudeste
+284,30/08/2021,Fortaleza Tech,Mouse Logitech,1,180,180,80,Ceará,Nordeste
+285,20/08/2021,Belém Info,Headset HyperX,1,420,420,260,Pará,Norte
+286,24/09/2021,SP Market,Microfone Condensador,2,260,520,170,São Paulo,Sudeste
+287,08/09/2021,Salvador Store,Cadeira Gamer,2,1550,3100,1100,Bahia,Nordeste
+288,30/08/2021,Belém Info,Microfone Condensador,1,260,260,170,Pará,Norte
+289,14/09/2021,RJ Centro,Notebook Dell i5,1,4200,4200,3500,Rio de Janeiro,Sudeste
+290,21/08/2021,Belém Info,"Monitor LG 24""",2,950,1900,720,Pará,Norte
+291,26/09/2021,Curitiba Tech,Webcam Full HD,3,310,930,210,Paraná,Sul
+292,30/09/2021,BH Mall,"Monitor LG 24""",3,950,2850,720,Minas Gerais,Sudeste
+293,18/09/2021,Recife Center,Teclado Mecânico Redragon,3,350,1050,220,Pernambuco,Nordeste
+294,12/10/2021,SP Market,Memória RAM 16GB,3,480,1440,330,São Paulo,Sudeste
+295,17/10/2021,Fortaleza Tech,Cadeira Gamer,2,1550,3100,1100,Ceará,Nordeste
+296,08/09/2021,Porto Alegre Shop,Microfone Condensador,1,260,260,170,Rio Grande do Sul,Sul
+297,20/09/2021,Salvador Store,Teclado Mecânico Redragon,2,350,700,220,Bahia,Nordeste
+298,18/10/2021,Fortaleza Tech,Memória RAM 16GB,1,480,480,330,Ceará,Nordeste
+299,19/09/2021,SP Market,Headset HyperX,3,420,1260,260,São Paulo,Sudeste
+300,15/09/2021,Fortaleza Tech,Webcam Full HD,2,310,620,210,Ceará,Nordeste
+301,14/10/2021,RJ Centro,"Monitor LG 24""",3,950,2850,720,Rio de Janeiro,Sudeste
+302,03/10/2021,SP Market,SSD Kingston 1TB,3,520,1560,380,São Paulo,Sudeste
+303,07/10/2021,Fortaleza Tech,Mouse Logitech,2,180,360,80,Ceará,Nordeste
+304,20/09/2021,SP Market,Webcam Full HD,1,310,310,210,São Paulo,Sudeste
+305,01/10/2021,RJ Centro,"Monitor Samsung 27""",2,1350,2700,980,Rio de Janeiro,Sudeste
+306,25/09/2021,SP Market,SSD Kingston 1TB,2,520,1040,380,São Paulo,Sudeste
+307,26/09/2021,Manaus Digital,Notebook Dell i5,2,4200,8400,3500,Amazonas,Norte
+308,15/10/2021,Fortaleza Tech,SSD Kingston 1TB,3,520,1560,380,Ceará,Nordeste
+309,27/09/2021,RJ Centro,Mouse Logitech,3,180,540,80,Rio de Janeiro,Sudeste
+310,26/08/2021,Porto Alegre Shop,HD Externo 2TB,1,450,450,320,Rio Grande do Sul,Sul
+311,04/09/2021,BH Mall,Memória RAM 16GB,1,480,480,330,Minas Gerais,Sudeste
+312,13/09/2021,BH Mall,Cadeira Gamer,1,1550,1550,1100,Minas Gerais,Sudeste
+313,09/09/2021,Porto Alegre Shop,Headset HyperX,3,420,1260,260,Rio Grande do Sul,Sul
+314,03/09/2021,SP Market,Cadeira Gamer,1,1550,1550,1100,São Paulo,Sudeste
+315,10/09/2021,Fortaleza Tech,Teclado sem fio Logitech,3,290,870,190,Ceará,Nordeste
+316,28/09/2021,Porto Alegre Shop,"Monitor LG 24""",2,950,1900,720,Rio Grande do Sul,Sul
+317,19/09/2021,Porto Alegre Shop,Notebook Dell i5,1,4200,4200,3500,Rio Grande do Sul,Sul
+318,17/09/2021,RJ Centro,Microfone Condensador,1,260,260,170,Rio de Janeiro,Sudeste
+319,25/09/2021,BH Mall,Teclado Mecânico Redragon,2,350,700,220,Minas Gerais,Sudeste
+320,28/09/2021,Manaus Digital,Notebook Dell i5,3,4200,12600,3500,Amazonas,Norte
+321,17/09/2021,Salvador Store,Headset HyperX,1,420,420,260,Bahia,Nordeste
+322,20/08/2021,Fortaleza Tech,SSD Kingston 1TB,1,520,520,380,Ceará,Nordeste
+323,16/10/2021,Porto Alegre Shop,HD Externo 2TB,1,450,450,320,Rio Grande do Sul,Sul
+324,28/09/2021,Fortaleza Tech,Notebook Dell i5,2,4200,8400,3500,Ceará,Nordeste
+325,14/10/2021,Salvador Store,SSD Kingston 1TB,2,520,1040,380,Bahia,Nordeste
+326,07/10/2021,SP Market,Mousepad Gamer,2,90,180,40,São Paulo,Sudeste
+327,28/08/2021,BH Mall,Mousepad Gamer,3,90,270,40,Minas Gerais,Sudeste
+328,30/09/2021,Belém Info,Webcam Full HD,1,310,310,210,Pará,Norte
+329,20/09/2021,Salvador Store,Notebook Dell i5,2,4200,8400,3500,Bahia,Nordeste
+330,13/09/2021,Salvador Store,"Monitor LG 24""",1,950,950,720,Bahia,Nordeste
+331,09/09/2021,Curitiba Tech,SSD Kingston 1TB,2,520,1040,380,Paraná,Sul
+332,24/09/2021,Manaus Digital,HD Externo 2TB,1,450,450,320,Amazonas,Norte
+333,01/10/2021,RJ Centro,Headset HyperX,1,420,420,260,Rio de Janeiro,Sudeste
+334,22/09/2021,RJ Centro,Webcam Full HD,1,310,310,210,Rio de Janeiro,Sudeste
+335,31/08/2021,RJ Centro,Teclado sem fio Logitech,3,290,870,190,Rio de Janeiro,Sudeste
+336,29/09/2021,Fortaleza Tech,Notebook Dell i5,2,4200,8400,3500,Ceará,Nordeste
+337,05/09/2021,Porto Alegre Shop,"Monitor LG 24""",1,950,950,720,Rio Grande do Sul,Sul
+338,05/10/2021,Salvador Store,Teclado Mecânico Redragon,3,350,1050,220,Bahia,Nordeste
+339,23/08/2021,Curitiba Tech,Webcam Full HD,3,310,930,210,Paraná,Sul
+340,18/09/2021,Fortaleza Tech,Teclado sem fio Logitech,1,290,290,190,Ceará,Nordeste
+341,30/08/2021,Manaus Digital,Notebook Dell i5,1,4200,4200,3500,Amazonas,Norte
+342,06/10/2021,Manaus Digital,Webcam Full HD,3,310,930,210,Amazonas,Norte
+343,16/10/2021,Fortaleza Tech,"Monitor LG 24""",1,950,950,720,Ceará,Nordeste
+344,23/08/2021,Belém Info,HD Externo 2TB,1,450,450,320,Pará,Norte
+345,04/09/2021,BH Mall,Memória RAM 16GB,2,480,960,330,Minas Gerais,Sudeste
+346,17/09/2021,Curitiba Tech,SSD Kingston 1TB,2,520,1040,380,Paraná,Sul
+347,28/09/2021,Fortaleza Tech,Teclado Mecânico Redragon,2,350,700,220,Ceará,Nordeste
+348,18/09/2021,Manaus Digital,Cadeira Gamer,1,1550,1550,1100,Amazonas,Norte
+349,02/10/2021,Porto Alegre Shop,Headset HyperX,3,420,1260,260,Rio Grande do Sul,Sul
+350,20/08/2021,SP Market,Cadeira Gamer,1,1550,1550,1100,São Paulo,Sudeste
+351,06/10/2021,Porto Alegre Shop,Teclado sem fio Logitech,3,290,870,190,Rio Grande do Sul,Sul
+352,05/09/2021,BH Mall,Headset HyperX,1,420,420,260,Minas Gerais,Sudeste
+353,11/09/2021,Porto Alegre Shop,"Monitor Samsung 27""",3,1350,4050,980,Rio Grande do Sul,Sul
+354,02/10/2021,Salvador Store,"Monitor Samsung 27""",1,1350,1350,980,Bahia,Nordeste
+355,24/09/2021,Manaus Digital,Cadeira Gamer,2,1550,3100,1100,Amazonas,Norte
+356,25/09/2021,Belém Info,Microfone Condensador,3,260,780,170,Pará,Norte
+357,10/10/2021,Belém Info,Mouse Logitech,2,180,360,80,Pará,Norte
+358,17/09/2021,SP Market,"Monitor LG 24""",2,950,1900,720,São Paulo,Sudeste
+359,04/09/2021,RJ Centro,Cadeira Gamer,3,1550,4650,1100,Rio de Janeiro,Sudeste
+360,15/09/2021,RJ Centro,"Monitor LG 24""",2,950,1900,720,Rio de Janeiro,Sudeste
+361,25/08/2021,Porto Alegre Shop,Cadeira Gamer,1,1550,1550,1100,Rio Grande do Sul,Sul
+362,27/09/2021,RJ Centro,"Monitor Samsung 27""",1,1350,1350,980,Rio de Janeiro,Sudeste
+363,30/09/2021,SP Market,Mousepad Gamer,1,90,90,40,São Paulo,Sudeste
+364,12/10/2021,RJ Centro,Headset HyperX,1,420,420,260,Rio de Janeiro,Sudeste
+365,18/10/2021,Porto Alegre Shop,Teclado Mecânico Redragon,1,350,350,220,Rio Grande do Sul,Sul
+366,14/09/2021,SP Market,Mouse Logitech,2,180,360,80,São Paulo,Sudeste
+367,29/09/2021,Fortaleza Tech,HD Externo 2TB,2,450,900,320,Ceará,Nordeste
+368,15/10/2021,SP Market,Cadeira Gamer,1,1550,1550,1100,São Paulo,Sudeste
+369,21/08/2021,RJ Centro,SSD Kingston 1TB,3,520,1560,380,Rio de Janeiro,Sudeste
+370,18/10/2021,Fortaleza Tech,Teclado Mecânico Redragon,3,350,1050,220,Ceará,Nordeste
+371,10/10/2021,Manaus Digital,Mousepad Gamer,2,90,180,40,Amazonas,Norte
+372,01/09/2021,Curitiba Tech,Cadeira Gamer,2,1550,3100,1100,Paraná,Sul
+373,21/09/2021,Belém Info,Webcam Full HD,2,310,620,210,Pará,Norte
+374,05/10/2021,Belém Info,SSD Kingston 1TB,1,520,520,380,Pará,Norte
+375,11/09/2021,Recife Center,Teclado Mecânico Redragon,3,350,1050,220,Pernambuco,Nordeste
+376,27/08/2021,Manaus Digital,Webcam Full HD,3,310,930,210,Amazonas,Norte
+377,26/09/2021,SP Market,Headset HyperX,3,420,1260,260,São Paulo,Sudeste
+378,11/09/2021,SP Market,Memória RAM 16GB,2,480,960,330,São Paulo,Sudeste
+379,19/10/2021,SP Market,Webcam Full HD,1,310,310,210,São Paulo,Sudeste
+380,25/09/2021,Recife Center,Teclado Mecânico Redragon,3,350,1050,220,Pernambuco,Nordeste
+381,19/10/2021,Salvador Store,Microfone Condensador,3,260,780,170,Bahia,Nordeste
+382,13/10/2021,BH Mall,Headset HyperX,1,420,420,260,Minas Gerais,Sudeste
+383,22/08/2021,Recife Center,Mousepad Gamer,2,90,180,40,Pernambuco,Nordeste
+384,07/10/2021,Curitiba Tech,Memória RAM 16GB,1,480,480,330,Paraná,Sul
+385,04/09/2021,RJ Centro,Mousepad Gamer,2,90,180,40,Rio de Janeiro,Sudeste
+386,01/09/2021,Belém Info,Mousepad Gamer,1,90,90,40,Pará,Norte
+387,09/09/2021,Manaus Digital,"Monitor LG 24""",2,950,1900,720,Amazonas,Norte
+388,16/10/2021,Fortaleza Tech,Headset HyperX,2,420,840,260,Ceará,Nordeste
+389,01/09/2021,Porto Alegre Shop,Mousepad Gamer,2,90,180,40,Rio Grande do Sul,Sul
+390,09/09/2021,Curitiba Tech,SSD Kingston 1TB,3,520,1560,380,Paraná,Sul
+391,23/09/2021,Recife Center,"Monitor LG 24""",1,950,950,720,Pernambuco,Nordeste
+392,26/08/2021,SP Market,"Monitor LG 24""",2,950,1900,720,São Paulo,Sudeste
+393,04/09/2021,Fortaleza Tech,"Monitor Samsung 27""",1,1350,1350,980,Ceará,Nordeste
+394,21/09/2021,RJ Centro,HD Externo 2TB,2,450,900,320,Rio de Janeiro,Sudeste
+395,03/10/2021,Curitiba Tech,Microfone Condensador,3,260,780,170,Paraná,Sul
+396,24/09/2021,RJ Centro,Memória RAM 16GB,2,480,960,330,Rio de Janeiro,Sudeste
+397,30/09/2021,Porto Alegre Shop,"Monitor Samsung 27""",1,1350,1350,980,Rio Grande do Sul,Sul
+398,16/10/2021,SP Market,HD Externo 2TB,3,450,1350,320,São Paulo,Sudeste
+399,17/10/2021,RJ Centro,Webcam Full HD,2,310,620,210,Rio de Janeiro,Sudeste
+400,04/09/2021,Recife Center,Headset HyperX,3,420,1260,260,Pernambuco,Nordeste
+401,26/09/2021,Fortaleza Tech,"Monitor LG 24""",1,950,950,720,Ceará,Nordeste
+402,15/09/2021,Recife Center,Headset HyperX,1,420,420,260,Pernambuco,Nordeste
+403,01/09/2021,Fortaleza Tech,Microfone Condensador,2,260,520,170,Ceará,Nordeste
+404,27/09/2021,Curitiba Tech,Memória RAM 16GB,3,480,1440,330,Paraná,Sul
+405,27/09/2021,BH Mall,Mousepad Gamer,1,90,90,40,Minas Gerais,Sudeste
+406,30/08/2021,SP Market,Teclado Mecânico Redragon,1,350,350,220,São Paulo,Sudeste
+407,28/09/2021,RJ Centro,Memória RAM 16GB,2,480,960,330,Rio de Janeiro,Sudeste
+408,06/09/2021,Belém Info,Webcam Full HD,2,310,620,210,Pará,Norte
+409,03/09/2021,SP Market,Webcam Full HD,2,310,620,210,São Paulo,Sudeste
+410,09/09/2021,Manaus Digital,HD Externo 2TB,3,450,1350,320,Amazonas,Norte
+411,09/10/2021,Porto Alegre Shop,Notebook Dell i5,1,4200,4200,3500,Rio Grande do Sul,Sul
+412,13/09/2021,SP Market,"Monitor LG 24""",2,950,1900,720,São Paulo,Sudeste
+413,06/10/2021,Belém Info,"Monitor LG 24""",3,950,2850,720,Pará,Norte
+414,18/09/2021,BH Mall,Webcam Full HD,2,310,620,210,Minas Gerais,Sudeste
+415,04/10/2021,Curitiba Tech,Memória RAM 16GB,1,480,480,330,Paraná,Sul
+416,08/10/2021,Salvador Store,Notebook Dell i5,1,4200,4200,3500,Bahia,Nordeste
+417,10/10/2021,BH Mall,Notebook Dell i5,2,4200,8400,3500,Minas Gerais,Sudeste
+418,27/08/2021,RJ Centro,SSD Kingston 1TB,2,520,1040,380,Rio de Janeiro,Sudeste
+419,24/08/2021,BH Mall,Webcam Full HD,1,310,310,210,Minas Gerais,Sudeste
+420,07/10/2021,Curitiba Tech,Teclado sem fio Logitech,1,290,290,190,Paraná,Sul
+421,13/09/2021,Recife Center,Teclado sem fio Logitech,1,290,290,190,Pernambuco,Nordeste
+422,07/10/2021,Salvador Store,Webcam Full HD,3,310,930,210,Bahia,Nordeste
+423,22/09/2021,Recife Center,Mousepad Gamer,1,90,90,40,Pernambuco,Nordeste
+424,14/09/2021,SP Market,Headset HyperX,1,420,420,260,São Paulo,Sudeste
+425,19/09/2021,BH Mall,Mousepad Gamer,3,90,270,40,Minas Gerais,Sudeste
+426,11/10/2021,SP Market,Teclado Mecânico Redragon,2,350,700,220,São Paulo,Sudeste
+427,07/09/2021,Curitiba Tech,Cadeira Gamer,3,1550,4650,1100,Paraná,Sul
+428,13/10/2021,SP Market,SSD Kingston 1TB,1,520,520,380,São Paulo,Sudeste
+429,09/10/2021,BH Mall,HD Externo 2TB,1,450,450,320,Minas Gerais,Sudeste
+430,24/09/2021,Belém Info,Teclado Mecânico Redragon,3,350,1050,220,Pará,Norte
+431,09/09/2021,SP Market,Webcam Full HD,1,310,310,210,São Paulo,Sudeste
+432,12/10/2021,Recife Center,"Monitor Samsung 27""",1,1350,1350,980,Pernambuco,Nordeste
+433,19/09/2021,RJ Centro,Memória RAM 16GB,3,480,1440,330,Rio de Janeiro,Sudeste
+434,17/09/2021,Salvador Store,Mousepad Gamer,1,90,90,40,Bahia,Nordeste
+435,05/10/2021,BH Mall,Teclado sem fio Logitech,1,290,290,190,Minas Gerais,Sudeste
+436,05/09/2021,Porto Alegre Shop,Cadeira Gamer,1,1550,1550,1100,Rio Grande do Sul,Sul
+437,22/09/2021,Manaus Digital,Headset HyperX,3,420,1260,260,Amazonas,Norte
+438,30/08/2021,Salvador Store,Mousepad Gamer,3,90,270,40,Bahia,Nordeste
+439,24/08/2021,Manaus Digital,"Monitor Samsung 27""",1,1350,1350,980,Amazonas,Norte
+440,12/09/2021,Curitiba Tech,Headset HyperX,2,420,840,260,Paraná,Sul
+441,08/09/2021,Recife Center,Webcam Full HD,1,310,310,210,Pernambuco,Nordeste
+442,28/09/2021,Porto Alegre Shop,Headset HyperX,1,420,420,260,Rio Grande do Sul,Sul
+443,11/09/2021,BH Mall,Teclado sem fio Logitech,2,290,580,190,Minas Gerais,Sudeste
+444,26/09/2021,Porto Alegre Shop,Teclado sem fio Logitech,1,290,290,190,Rio Grande do Sul,Sul
+445,05/09/2021,Manaus Digital,Teclado Mecânico Redragon,3,350,1050,220,Amazonas,Norte
+446,30/09/2021,BH Mall,"Monitor LG 24""",1,950,950,720,Minas Gerais,Sudeste
+447,28/09/2021,Belém Info,Mousepad Gamer,3,90,270,40,Pará,Norte
+448,05/10/2021,Salvador Store,SSD Kingston 1TB,1,520,520,380,Bahia,Nordeste
+449,19/10/2021,Porto Alegre Shop,Teclado Mecânico Redragon,1,350,350,220,Rio Grande do Sul,Sul
+450,20/08/2021,Curitiba Tech,Notebook Dell i5,2,4200,8400,3500,Paraná,Sul
+451,06/09/2021,Porto Alegre Shop,HD Externo 2TB,1,450,450,320,Rio Grande do Sul,Sul
+452,28/08/2021,Salvador Store,Webcam Full HD,2,310,620,210,Bahia,Nordeste
+453,23/09/2021,Salvador Store,Headset HyperX,3,420,1260,260,Bahia,Nordeste
+454,08/09/2021,BH Mall,"Monitor LG 24""",2,950,1900,720,Minas Gerais,Sudeste
+455,26/09/2021,SP Market,Mousepad Gamer,1,90,90,40,São Paulo,Sudeste
+456,10/10/2021,Curitiba Tech,Headset HyperX,3,420,1260,260,Paraná,Sul
+457,22/08/2021,Fortaleza Tech,Teclado sem fio Logitech,3,290,870,190,Ceará,Nordeste
+458,06/10/2021,Salvador Store,Memória RAM 16GB,2,480,960,330,Bahia,Nordeste
+459,26/09/2021,Recife Center,Webcam Full HD,2,310,620,210,Pernambuco,Nordeste
+460,11/09/2021,BH Mall,"Monitor Samsung 27""",3,1350,4050,980,Minas Gerais,Sudeste
+461,31/08/2021,SP Market,Microfone Condensador,3,260,780,170,São Paulo,Sudeste
+462,15/10/2021,Manaus Digital,Cadeira Gamer,3,1550,4650,1100,Amazonas,Norte
+463,05/10/2021,Porto Alegre Shop,HD Externo 2TB,1,450,450,320,Rio Grande do Sul,Sul
+464,07/09/2021,Belém Info,Headset HyperX,2,420,840,260,Pará,Norte
+465,16/09/2021,Fortaleza Tech,Microfone Condensador,3,260,780,170,Ceará,Nordeste
+466,02/09/2021,RJ Centro,SSD Kingston 1TB,3,520,1560,380,Rio de Janeiro,Sudeste
+467,09/10/2021,RJ Centro,"Monitor LG 24""",1,950,950,720,Rio de Janeiro,Sudeste
+468,07/09/2021,Fortaleza Tech,Cadeira Gamer,3,1550,4650,1100,Ceará,Nordeste
+469,14/09/2021,BH Mall,"Monitor Samsung 27""",2,1350,2700,980,Minas Gerais,Sudeste
+470,26/08/2021,SP Market,SSD Kingston 1TB,2,520,1040,380,São Paulo,Sudeste
+471,05/09/2021,Salvador Store,Teclado sem fio Logitech,3,290,870,190,Bahia,Nordeste
+472,09/09/2021,Porto Alegre Shop,Cadeira Gamer,3,1550,4650,1100,Rio Grande do Sul,Sul
+473,09/09/2021,Recife Center,HD Externo 2TB,2,450,900,320,Pernambuco,Nordeste
+474,17/09/2021,Manaus Digital,Mouse Logitech,2,180,360,80,Amazonas,Norte
+475,08/10/2021,Porto Alegre Shop,Notebook Dell i5,3,4200,12600,3500,Rio Grande do Sul,Sul
+476,08/10/2021,Curitiba Tech,Webcam Full HD,2,310,620,210,Paraná,Sul
+477,17/10/2021,Recife Center,"Monitor Samsung 27""",1,1350,1350,980,Pernambuco,Nordeste
+478,04/09/2021,RJ Centro,Teclado Mecânico Redragon,1,350,350,220,Rio de Janeiro,Sudeste
+479,21/09/2021,SP Market,Webcam Full HD,3,310,930,210,São Paulo,Sudeste
+480,20/08/2021,Fortaleza Tech,Notebook Dell i5,3,4200,12600,3500,Ceará,Nordeste
+481,19/10/2021,Recife Center,Memória RAM 16GB,3,480,1440,330,Pernambuco,Nordeste
+482,28/08/2021,BH Mall,Memória RAM 16GB,2,480,960,330,Minas Gerais,Sudeste
+483,13/10/2021,RJ Centro,Microfone Condensador,2,260,520,170,Rio de Janeiro,Sudeste
+484,30/08/2021,Curitiba Tech,SSD Kingston 1TB,1,520,520,380,Paraná,Sul
+485,19/10/2021,SP Market,Microfone Condensador,1,260,260,170,São Paulo,Sudeste
+486,05/10/2021,Recife Center,Mouse Logitech,2,180,360,80,Pernambuco,Nordeste
+487,25/08/2021,Porto Alegre Shop,Headset HyperX,1,420,420,260,Rio Grande do Sul,Sul
+488,19/09/2021,Curitiba Tech,Headset HyperX,1,420,420,260,Paraná,Sul
+489,24/08/2021,Porto Alegre Shop,Notebook Dell i5,1,4200,4200,3500,Rio Grande do Sul,Sul
+490,04/10/2021,RJ Centro,Webcam Full HD,3,310,930,210,Rio de Janeiro,Sudeste
+491,15/10/2021,Fortaleza Tech,HD Externo 2TB,1,450,450,320,Ceará,Nordeste
+492,18/09/2021,SP Market,Mouse Logitech,3,180,540,80,São Paulo,Sudeste
+493,13/09/2021,SP Market,Microfone Condensador,1,260,260,170,São Paulo,Sudeste
+494,19/10/2021,Recife Center,Teclado Mecânico Redragon,2,350,700,220,Pernambuco,Nordeste
+495,09/09/2021,RJ Centro,HD Externo 2TB,3,450,1350,320,Rio de Janeiro,Sudeste
+496,14/09/2021,Belém Info,Notebook Dell i5,3,4200,12600,3500,Pará,Norte
+497,04/09/2021,Fortaleza Tech,Teclado Mecânico Redragon,1,350,350,220,Ceará,Nordeste
+498,22/08/2021,Fortaleza Tech,Memória RAM 16GB,1,480,480,330,Ceará,Nordeste
+499,08/10/2021,BH Mall,Teclado Mecânico Redragon,1,350,350,220,Minas Gerais,Sudeste
+500,20/08/2021,Porto Alegre Shop,Teclado Mecânico Redragon,3,350,1050,220,Rio Grande do Sul,Sul
+501,11/10/2021,Curitiba Tech,Mouse Logitech,2,180,360,80,Paraná,Sul
+502,12/10/2021,Belém Info,Mousepad Gamer,1,90,90,40,Pará,Norte
+503,08/10/2021,Recife Center,Microfone Condensador,3,260,780,170,Pernambuco,Nordeste
+504,04/09/2021,SP Market,Microfone Condensador,1,260,260,170,São Paulo,Sudeste
+505,22/09/2021,RJ Centro,Mouse Logitech,3,180,540,80,Rio de Janeiro,Sudeste
+506,10/10/2021,Salvador Store,Microfone Condensador,3,260,780,170,Bahia,Nordeste
+507,20/09/2021,Manaus Digital,Teclado Mecânico Redragon,1,350,350,220,Amazonas,Norte
+508,07/09/2021,Recife Center,"Monitor Samsung 27""",3,1350,4050,980,Pernambuco,Nordeste
+509,08/09/2021,BH Mall,"Monitor LG 24""",1,950,950,720,Minas Gerais,Sudeste
+510,02/10/2021,BH Mall,Webcam Full HD,2,310,620,210,Minas Gerais,Sudeste
+511,06/09/2021,Fortaleza Tech,Notebook Dell i5,1,4200,4200,3500,Ceará,Nordeste
+512,10/09/2021,BH Mall,"Monitor LG 24""",2,950,1900,720,Minas Gerais,Sudeste
+513,02/09/2021,Recife Center,Mousepad Gamer,3,90,270,40,Pernambuco,Nordeste
+514,18/10/2021,Curitiba Tech,Mousepad Gamer,2,90,180,40,Paraná,Sul
+515,05/09/2021,SP Market,Headset HyperX,3,420,1260,260,São Paulo,Sudeste
+516,16/10/2021,Manaus Digital,Notebook Dell i5,1,4200,4200,3500,Amazonas,Norte
+517,11/10/2021,Manaus Digital,HD Externo 2TB,2,450,900,320,Amazonas,Norte
+518,06/10/2021,Fortaleza Tech,SSD Kingston 1TB,2,520,1040,380,Ceará,Nordeste
+519,05/09/2021,Belém Info,Webcam Full HD,2,310,620,210,Pará,Norte
+520,24/09/2021,BH Mall,"Monitor LG 24""",1,950,950,720,Minas Gerais,Sudeste
+521,16/10/2021,Manaus Digital,Microfone Condensador,2,260,520,170,Amazonas,Norte
+522,18/10/2021,SP Market,Memória RAM 16GB,2,480,960,330,São Paulo,Sudeste
+523,30/08/2021,Curitiba Tech,Notebook Dell i5,3,4200,12600,3500,Paraná,Sul
+524,20/08/2021,Manaus Digital,Webcam Full HD,1,310,310,210,Amazonas,Norte
+525,23/08/2021,Manaus Digital,Cadeira Gamer,1,1550,1550,1100,Amazonas,Norte
+526,10/09/2021,Porto Alegre Shop,HD Externo 2TB,2,450,900,320,Rio Grande do Sul,Sul
+527,26/09/2021,Manaus Digital,Cadeira Gamer,3,1550,4650,1100,Amazonas,Norte
+528,05/09/2021,Manaus Digital,Webcam Full HD,2,310,620,210,Amazonas,Norte
+529,19/10/2021,Manaus Digital,Mouse Logitech,1,180,180,80,Amazonas,Norte
+530,22/08/2021,Recife Center,Mouse Logitech,2,180,360,80,Pernambuco,Nordeste
+531,23/08/2021,Salvador Store,Cadeira Gamer,3,1550,4650,1100,Bahia,Nordeste
+532,06/10/2021,Belém Info,HD Externo 2TB,3,450,1350,320,Pará,Norte
+533,01/09/2021,SP Market,Teclado Mecânico Redragon,2,350,700,220,São Paulo,Sudeste
+534,14/10/2021,SP Market,Headset HyperX,1,420,420,260,São Paulo,Sudeste
+535,25/08/2021,BH Mall,"Monitor LG 24""",2,950,1900,720,Minas Gerais,Sudeste
+536,27/09/2021,RJ Centro,Teclado Mecânico Redragon,2,350,700,220,Rio de Janeiro,Sudeste
+537,04/09/2021,Manaus Digital,Headset HyperX,1,420,420,260,Amazonas,Norte
+538,22/08/2021,SP Market,Mousepad Gamer,1,90,90,40,São Paulo,Sudeste
+539,05/09/2021,RJ Centro,"Monitor LG 24""",2,950,1900,720,Rio de Janeiro,Sudeste
+540,11/10/2021,Recife Center,Mousepad Gamer,1,90,90,40,Pernambuco,Nordeste
+541,17/09/2021,RJ Centro,Teclado Mecânico Redragon,2,350,700,220,Rio de Janeiro,Sudeste
+542,03/09/2021,Belém Info,Teclado Mecânico Redragon,3,350,1050,220,Pará,Norte
+543,05/09/2021,Salvador Store,Teclado sem fio Logitech,3,290,870,190,Bahia,Nordeste
+544,18/10/2021,Porto Alegre Shop,HD Externo 2TB,3,450,1350,320,Rio Grande do Sul,Sul
+545,22/09/2021,Recife Center,Microfone Condensador,2,260,520,170,Pernambuco,Nordeste
+546,01/09/2021,BH Mall,"Monitor Samsung 27""",3,1350,4050,980,Minas Gerais,Sudeste
+547,09/10/2021,BH Mall,"Monitor LG 24""",1,950,950,720,Minas Gerais,Sudeste
+548,18/09/2021,SP Market,SSD Kingston 1TB,2,520,1040,380,São Paulo,Sudeste
+549,23/08/2021,Belém Info,Teclado Mecânico Redragon,1,350,350,220,Pará,Norte
+550,19/10/2021,BH Mall,"Monitor LG 24""",3,950,2850,720,Minas Gerais,Sudeste
+551,06/09/2021,Recife Center,Teclado Mecânico Redragon,2,350,700,220,Pernambuco,Nordeste
+552,29/09/2021,Recife Center,Teclado Mecânico Redragon,1,350,350,220,Pernambuco,Nordeste
+553,21/09/2021,Salvador Store,Webcam Full HD,2,310,620,210,Bahia,Nordeste
+554,01/09/2021,Porto Alegre Shop,Teclado Mecânico Redragon,1,350,350,220,Rio Grande do Sul,Sul
+555,01/09/2021,Belém Info,Mouse Logitech,3,180,540,80,Pará,Norte
+556,08/10/2021,Manaus Digital,"Monitor LG 24""",2,950,1900,720,Amazonas,Norte
+557,21/08/2021,Recife Center,Mousepad Gamer,2,90,180,40,Pernambuco,Nordeste
+558,30/08/2021,Manaus Digital,Teclado Mecânico Redragon,2,350,700,220,Amazonas,Norte
+559,20/09/2021,Fortaleza Tech,HD Externo 2TB,3,450,1350,320,Ceará,Nordeste
+560,20/08/2021,Porto Alegre Shop,Mousepad Gamer,2,90,180,40,Rio Grande do Sul,Sul
+561,24/09/2021,Manaus Digital,Microfone Condensador,3,260,780,170,Amazonas,Norte
+562,23/08/2021,Belém Info,Teclado Mecânico Redragon,1,350,350,220,Pará,Norte
+563,08/10/2021,BH Mall,Teclado Mecânico Redragon,1,350,350,220,Minas Gerais,Sudeste
+564,25/09/2021,Belém Info,Headset HyperX,3,420,1260,260,Pará,Norte
+565,08/10/2021,Belém Info,Mousepad Gamer,1,90,90,40,Pará,Norte
+566,18/10/2021,RJ Centro,Headset HyperX,2,420,840,260,Rio de Janeiro,Sudeste
+567,20/08/2021,Curitiba Tech,"Monitor LG 24""",1,950,950,720,Paraná,Sul
+568,03/10/2021,Fortaleza Tech,Memória RAM 16GB,3,480,1440,330,Ceará,Nordeste
+569,08/09/2021,Fortaleza Tech,SSD Kingston 1TB,3,520,1560,380,Ceará,Nordeste
+570,03/09/2021,Recife Center,Headset HyperX,1,420,420,260,Pernambuco,Nordeste
+571,17/09/2021,Porto Alegre Shop,"Monitor Samsung 27""",2,1350,2700,980,Rio Grande do Sul,Sul
+572,23/09/2021,Fortaleza Tech,Webcam Full HD,3,310,930,210,Ceará,Nordeste
+573,19/09/2021,Curitiba Tech,Notebook Dell i5,1,4200,4200,3500,Paraná,Sul
+574,01/09/2021,SP Market,Notebook Dell i5,2,4200,8400,3500,São Paulo,Sudeste
+575,27/08/2021,RJ Centro,"Monitor Samsung 27""",2,1350,2700,980,Rio de Janeiro,Sudeste
+576,22/08/2021,Recife Center,Mousepad Gamer,1,90,90,40,Pernambuco,Nordeste
+577,20/08/2021,Recife Center,Cadeira Gamer,1,1550,1550,1100,Pernambuco,Nordeste
+578,09/10/2021,Belém Info,"Monitor Samsung 27""",2,1350,2700,980,Pará,Norte
+579,02/09/2021,Manaus Digital,Cadeira Gamer,3,1550,4650,1100,Amazonas,Norte
+580,05/09/2021,Recife Center,Headset HyperX,2,420,840,260,Pernambuco,Nordeste
+581,31/08/2021,BH Mall,Webcam Full HD,2,310,620,210,Minas Gerais,Sudeste
+582,01/10/2021,Recife Center,Teclado sem fio Logitech,2,290,580,190,Pernambuco,Nordeste
+583,25/09/2021,Manaus Digital,SSD Kingston 1TB,1,520,520,380,Amazonas,Norte
+584,11/09/2021,Curitiba Tech,SSD Kingston 1TB,1,520,520,380,Paraná,Sul
+585,17/10/2021,Fortaleza Tech,Headset HyperX,3,420,1260,260,Ceará,Nordeste
+586,14/09/2021,Salvador Store,Webcam Full HD,2,310,620,210,Bahia,Nordeste
+587,21/08/2021,Porto Alegre Shop,Microfone Condensador,3,260,780,170,Rio Grande do Sul,Sul
+588,26/09/2021,SP Market,Notebook Dell i5,2,4200,8400,3500,São Paulo,Sudeste
+589,30/09/2021,Curitiba Tech,Webcam Full HD,1,310,310,210,Paraná,Sul
+590,26/08/2021,Salvador Store,Webcam Full HD,1,310,310,210,Bahia,Nordeste
+591,26/08/2021,SP Market,Microfone Condensador,2,260,520,170,São Paulo,Sudeste
+592,01/10/2021,BH Mall,Mouse Logitech,1,180,180,80,Minas Gerais,Sudeste
+593,23/09/2021,Curitiba Tech,Teclado sem fio Logitech,1,290,290,190,Paraná,Sul
+594,18/09/2021,Salvador Store,Cadeira Gamer,1,1550,1550,1100,Bahia,Nordeste
+595,11/10/2021,Manaus Digital,HD Externo 2TB,2,450,900,320,Amazonas,Norte
+596,13/10/2021,Recife Center,Webcam Full HD,1,310,310,210,Pernambuco,Nordeste
+597,09/10/2021,Porto Alegre Shop,Mouse Logitech,3,180,540,80,Rio Grande do Sul,Sul
+598,18/10/2021,BH Mall,Headset HyperX,3,420,1260,260,Minas Gerais,Sudeste
+599,04/10/2021,Recife Center,Teclado sem fio Logitech,2,290,580,190,Pernambuco,Nordeste
+600,12/09/2021,Curitiba Tech,HD Externo 2TB,1,450,450,320,Paraná,Sul
+601,20/08/2021,RJ Centro,Cadeira Gamer,3,1550,4650,1100,Rio de Janeiro,Sudeste
+602,09/10/2021,Recife Center,"Monitor LG 24""",3,950,2850,720,Pernambuco,Nordeste
+603,02/10/2021,Fortaleza Tech,Mousepad Gamer,1,90,90,40,Ceará,Nordeste
+604,03/10/2021,Belém Info,Headset HyperX,1,420,420,260,Pará,Norte
+605,11/09/2021,RJ Centro,Webcam Full HD,3,310,930,210,Rio de Janeiro,Sudeste
+606,01/09/2021,RJ Centro,Teclado sem fio Logitech,3,290,870,190,Rio de Janeiro,Sudeste
+607,08/09/2021,SP Market,Headset HyperX,2,420,840,260,São Paulo,Sudeste
+608,18/09/2021,Recife Center,SSD Kingston 1TB,3,520,1560,380,Pernambuco,Nordeste
+609,05/09/2021,Porto Alegre Shop,Mouse Logitech,1,180,180,80,Rio Grande do Sul,Sul
+610,02/10/2021,Belém Info,Headset HyperX,2,420,840,260,Pará,Norte
+611,05/10/2021,Curitiba Tech,Headset HyperX,3,420,1260,260,Paraná,Sul
+612,31/08/2021,BH Mall,Teclado Mecânico Redragon,1,350,350,220,Minas Gerais,Sudeste
+613,03/10/2021,RJ Centro,Webcam Full HD,2,310,620,210,Rio de Janeiro,Sudeste
+614,08/10/2021,RJ Centro,"Monitor Samsung 27""",3,1350,4050,980,Rio de Janeiro,Sudeste
+615,27/08/2021,Manaus Digital,HD Externo 2TB,2,450,900,320,Amazonas,Norte
+616,22/09/2021,Recife Center,SSD Kingston 1TB,3,520,1560,380,Pernambuco,Nordeste
+617,17/09/2021,Recife Center,Headset HyperX,1,420,420,260,Pernambuco,Nordeste
+618,03/09/2021,Porto Alegre Shop,Notebook Dell i5,2,4200,8400,3500,Rio Grande do Sul,Sul
+619,06/09/2021,BH Mall,Microfone Condensador,2,260,520,170,Minas Gerais,Sudeste
+620,31/08/2021,Recife Center,Memória RAM 16GB,3,480,1440,330,Pernambuco,Nordeste
+621,03/10/2021,RJ Centro,Webcam Full HD,3,310,930,210,Rio de Janeiro,Sudeste
+622,31/08/2021,Porto Alegre Shop,Cadeira Gamer,2,1550,3100,1100,Rio Grande do Sul,Sul
+623,26/08/2021,Porto Alegre Shop,Teclado sem fio Logitech,2,290,580,190,Rio Grande do Sul,Sul
+624,01/09/2021,Recife Center,"Monitor Samsung 27""",2,1350,2700,980,Pernambuco,Nordeste
+625,17/09/2021,Fortaleza Tech,Mouse Logitech,3,180,540,80,Ceará,Nordeste
+626,18/09/2021,SP Market,Microfone Condensador,3,260,780,170,São Paulo,Sudeste
+627,24/08/2021,RJ Centro,Teclado Mecânico Redragon,2,350,700,220,Rio de Janeiro,Sudeste
+628,17/09/2021,Porto Alegre Shop,Notebook Dell i5,1,4200,4200,3500,Rio Grande do Sul,Sul
+629,02/09/2021,Salvador Store,Webcam Full HD,2,310,620,210,Bahia,Nordeste
+630,05/09/2021,Fortaleza Tech,Mousepad Gamer,2,90,180,40,Ceará,Nordeste
+631,12/10/2021,Salvador Store,Webcam Full HD,2,310,620,210,Bahia,Nordeste
+632,26/08/2021,RJ Centro,Notebook Dell i5,3,4200,12600,3500,Rio de Janeiro,Sudeste
+633,07/09/2021,Recife Center,SSD Kingston 1TB,3,520,1560,380,Pernambuco,Nordeste
+634,07/10/2021,Recife Center,Webcam Full HD,2,310,620,210,Pernambuco,Nordeste
+635,30/08/2021,Manaus Digital,SSD Kingston 1TB,3,520,1560,380,Amazonas,Norte
+636,26/08/2021,BH Mall,Notebook Dell i5,2,4200,8400,3500,Minas Gerais,Sudeste
+637,02/09/2021,Recife Center,Mousepad Gamer,2,90,180,40,Pernambuco,Nordeste
+638,25/09/2021,BH Mall,"Monitor LG 24""",2,950,1900,720,Minas Gerais,Sudeste
+639,04/09/2021,BH Mall,Microfone Condensador,1,260,260,170,Minas Gerais,Sudeste
+640,03/10/2021,SP Market,HD Externo 2TB,2,450,900,320,São Paulo,Sudeste
+641,15/10/2021,Fortaleza Tech,Microfone Condensador,2,260,520,170,Ceará,Nordeste
+642,25/08/2021,Manaus Digital,"Monitor Samsung 27""",2,1350,2700,980,Amazonas,Norte
+643,26/08/2021,Recife Center,Notebook Dell i5,2,4200,8400,3500,Pernambuco,Nordeste
+644,25/09/2021,BH Mall,Webcam Full HD,2,310,620,210,Minas Gerais,Sudeste
+645,17/10/2021,RJ Centro,"Monitor LG 24""",1,950,950,720,Rio de Janeiro,Sudeste
+646,20/08/2021,BH Mall,Memória RAM 16GB,2,480,960,330,Minas Gerais,Sudeste
+647,10/09/2021,Fortaleza Tech,Cadeira Gamer,1,1550,1550,1100,Ceará,Nordeste
+648,16/09/2021,Curitiba Tech,Notebook Dell i5,3,4200,12600,3500,Paraná,Sul
+649,22/09/2021,SP Market,Notebook Dell i5,1,4200,4200,3500,São Paulo,Sudeste
+650,23/09/2021,RJ Centro,Teclado Mecânico Redragon,2,350,700,220,Rio de Janeiro,Sudeste
+651,24/08/2021,RJ Centro,"Monitor Samsung 27""",2,1350,2700,980,Rio de Janeiro,Sudeste
+652,24/09/2021,Manaus Digital,Microfone Condensador,2,260,520,170,Amazonas,Norte
+653,12/09/2021,Curitiba Tech,Webcam Full HD,3,310,930,210,Paraná,Sul
+654,23/08/2021,BH Mall,Mousepad Gamer,1,90,90,40,Minas Gerais,Sudeste
+655,21/08/2021,Salvador Store,SSD Kingston 1TB,1,520,520,380,Bahia,Nordeste
+656,14/10/2021,Salvador Store,"Monitor LG 24""",3,950,2850,720,Bahia,Nordeste
+657,08/10/2021,Fortaleza Tech,"Monitor Samsung 27""",3,1350,4050,980,Ceará,Nordeste
+658,25/09/2021,Porto Alegre Shop,Microfone Condensador,3,260,780,170,Rio Grande do Sul,Sul
+659,03/10/2021,Recife Center,Notebook Dell i5,3,4200,12600,3500,Pernambuco,Nordeste
+660,04/10/2021,Fortaleza Tech,Cadeira Gamer,1,1550,1550,1100,Ceará,Nordeste
+661,18/10/2021,Curitiba Tech,"Monitor Samsung 27""",2,1350,2700,980,Paraná,Sul
+662,14/10/2021,Recife Center,SSD Kingston 1TB,3,520,1560,380,Pernambuco,Nordeste
+663,14/10/2021,Porto Alegre Shop,Notebook Dell i5,3,4200,12600,3500,Rio Grande do Sul,Sul
+664,02/09/2021,Fortaleza Tech,Memória RAM 16GB,2,480,960,330,Ceará,Nordeste
+665,21/09/2021,Curitiba Tech,Notebook Dell i5,2,4200,8400,3500,Paraná,Sul
+666,13/10/2021,Manaus Digital,Memória RAM 16GB,2,480,960,330,Amazonas,Norte
+667,29/09/2021,Porto Alegre Shop,Notebook Dell i5,2,4200,8400,3500,Rio Grande do Sul,Sul
+668,20/08/2021,Curitiba Tech,Webcam Full HD,1,310,310,210,Paraná,Sul
+669,13/10/2021,BH Mall,Mouse Logitech,1,180,180,80,Minas Gerais,Sudeste
+670,04/10/2021,Recife Center,Microfone Condensador,1,260,260,170,Pernambuco,Nordeste
+671,15/09/2021,RJ Centro,Teclado Mecânico Redragon,3,350,1050,220,Rio de Janeiro,Sudeste
+672,09/10/2021,Recife Center,Microfone Condensador,2,260,520,170,Pernambuco,Nordeste
+673,08/10/2021,Fortaleza Tech,Teclado sem fio Logitech,1,290,290,190,Ceará,Nordeste
+674,27/09/2021,Manaus Digital,Microfone Condensador,2,260,520,170,Amazonas,Norte
+675,13/10/2021,Belém Info,Notebook Dell i5,3,4200,12600,3500,Pará,Norte
+676,07/10/2021,Recife Center,Memória RAM 16GB,1,480,480,330,Pernambuco,Nordeste
+677,09/10/2021,RJ Centro,SSD Kingston 1TB,2,520,1040,380,Rio de Janeiro,Sudeste
+678,15/09/2021,Porto Alegre Shop,Mouse Logitech,1,180,180,80,Rio Grande do Sul,Sul
+679,30/09/2021,Manaus Digital,Teclado Mecânico Redragon,3,350,1050,220,Amazonas,Norte
+680,11/10/2021,Manaus Digital,HD Externo 2TB,3,450,1350,320,Amazonas,Norte
+681,07/09/2021,RJ Centro,Headset HyperX,1,420,420,260,Rio de Janeiro,Sudeste
+682,10/09/2021,BH Mall,SSD Kingston 1TB,1,520,520,380,Minas Gerais,Sudeste
+683,07/10/2021,Curitiba Tech,Mousepad Gamer,2,90,180,40,Paraná,Sul
+684,26/09/2021,Manaus Digital,SSD Kingston 1TB,1,520,520,380,Amazonas,Norte
+685,18/10/2021,Fortaleza Tech,Mouse Logitech,2,180,360,80,Ceará,Nordeste
+686,25/08/2021,Curitiba Tech,Notebook Dell i5,3,4200,12600,3500,Paraná,Sul
+687,13/10/2021,Manaus Digital,Mouse Logitech,2,180,360,80,Amazonas,Norte
+688,11/09/2021,Manaus Digital,"Monitor Samsung 27""",3,1350,4050,980,Amazonas,Norte
+689,25/09/2021,Curitiba Tech,SSD Kingston 1TB,3,520,1560,380,Paraná,Sul
+690,23/09/2021,Curitiba Tech,Teclado Mecânico Redragon,2,350,700,220,Paraná,Sul
+691,29/09/2021,Recife Center,Notebook Dell i5,2,4200,8400,3500,Pernambuco,Nordeste
+692,31/08/2021,Belém Info,Memória RAM 16GB,2,480,960,330,Pará,Norte
+693,11/09/2021,Salvador Store,"Monitor LG 24""",1,950,950,720,Bahia,Nordeste
+694,23/09/2021,Recife Center,Headset HyperX,1,420,420,260,Pernambuco,Nordeste
+695,26/09/2021,SP Market,"Monitor LG 24""",2,950,1900,720,São Paulo,Sudeste
+696,02/10/2021,Salvador Store,Mousepad Gamer,2,90,180,40,Bahia,Nordeste
+697,06/10/2021,SP Market,Headset HyperX,2,420,840,260,São Paulo,Sudeste
+698,01/09/2021,BH Mall,"Monitor LG 24""",2,950,1900,720,Minas Gerais,Sudeste
+699,09/09/2021,Belém Info,Notebook Dell i5,3,4200,12600,3500,Pará,Norte
+700,01/09/2021,BH Mall,Teclado Mecânico Redragon,2,350,700,220,Minas Gerais,Sudeste
+701,31/08/2021,Curitiba Tech,HD Externo 2TB,2,450,900,320,Paraná,Sul
+702,22/08/2021,Belém Info,Cadeira Gamer,3,1550,4650,1100,Pará,Norte
+703,18/09/2021,Porto Alegre Shop,Mouse Logitech,2,180,360,80,Rio Grande do Sul,Sul
+704,24/09/2021,Manaus Digital,Cadeira Gamer,2,1550,3100,1100,Amazonas,Norte
+705,16/10/2021,BH Mall,Headset HyperX,2,420,840,260,Minas Gerais,Sudeste
+706,28/08/2021,BH Mall,Teclado sem fio Logitech,2,290,580,190,Minas Gerais,Sudeste
+707,10/09/2021,Salvador Store,Headset HyperX,1,420,420,260,Bahia,Nordeste
+708,12/09/2021,Curitiba Tech,Mousepad Gamer,2,90,180,40,Paraná,Sul
+709,05/09/2021,BH Mall,SSD Kingston 1TB,1,520,520,380,Minas Gerais,Sudeste
+710,13/09/2021,Manaus Digital,Teclado Mecânico Redragon,1,350,350,220,Amazonas,Norte
+711,21/08/2021,Porto Alegre Shop,Mousepad Gamer,1,90,90,40,Rio Grande do Sul,Sul
+712,23/08/2021,SP Market,Webcam Full HD,1,310,310,210,São Paulo,Sudeste
+713,21/09/2021,SP Market,Notebook Dell i5,2,4200,8400,3500,São Paulo,Sudeste
+714,06/09/2021,Fortaleza Tech,Webcam Full HD,3,310,930,210,Ceará,Nordeste
+715,18/10/2021,Manaus Digital,Webcam Full HD,1,310,310,210,Amazonas,Norte
+716,16/09/2021,SP Market,"Monitor Samsung 27""",2,1350,2700,980,São Paulo,Sudeste
+717,20/09/2021,Salvador Store,Teclado sem fio Logitech,2,290,580,190,Bahia,Nordeste
+718,29/08/2021,Salvador Store,HD Externo 2TB,3,450,1350,320,Bahia,Nordeste
+719,01/10/2021,Fortaleza Tech,Webcam Full HD,3,310,930,210,Ceará,Nordeste
+720,27/08/2021,BH Mall,Cadeira Gamer,2,1550,3100,1100,Minas Gerais,Sudeste
+721,16/09/2021,Salvador Store,Mousepad Gamer,1,90,90,40,Bahia,Nordeste
+722,02/09/2021,BH Mall,Microfone Condensador,2,260,520,170,Minas Gerais,Sudeste
+723,15/10/2021,Curitiba Tech,HD Externo 2TB,3,450,1350,320,Paraná,Sul
+724,13/09/2021,Curitiba Tech,Microfone Condensador,1,260,260,170,Paraná,Sul
+725,23/09/2021,SP Market,Teclado Mecânico Redragon,3,350,1050,220,São Paulo,Sudeste
+726,19/09/2021,BH Mall,Notebook Dell i5,3,4200,12600,3500,Minas Gerais,Sudeste
+727,18/09/2021,Porto Alegre Shop,Notebook Dell i5,2,4200,8400,3500,Rio Grande do Sul,Sul
+728,05/10/2021,Porto Alegre Shop,Notebook Dell i5,3,4200,12600,3500,Rio Grande do Sul,Sul
+729,23/08/2021,Manaus Digital,Headset HyperX,2,420,840,260,Amazonas,Norte
+730,28/08/2021,Recife Center,Teclado Mecânico Redragon,2,350,700,220,Pernambuco,Nordeste
+731,01/10/2021,RJ Centro,Headset HyperX,3,420,1260,260,Rio de Janeiro,Sudeste
+732,09/10/2021,SP Market,Teclado Mecânico Redragon,1,350,350,220,São Paulo,Sudeste
+733,03/09/2021,BH Mall,Teclado sem fio Logitech,2,290,580,190,Minas Gerais,Sudeste
+734,01/09/2021,RJ Centro,Mouse Logitech,2,180,360,80,Rio de Janeiro,Sudeste
+735,13/09/2021,SP Market,Webcam Full HD,3,310,930,210,São Paulo,Sudeste
+736,03/09/2021,Porto Alegre Shop,"Monitor LG 24""",1,950,950,720,Rio Grande do Sul,Sul
+737,03/09/2021,Fortaleza Tech,Teclado Mecânico Redragon,1,350,350,220,Ceará,Nordeste
+738,23/09/2021,Curitiba Tech,Microfone Condensador,3,260,780,170,Paraná,Sul
+739,13/09/2021,Belém Info,Mousepad Gamer,3,90,270,40,Pará,Norte
+740,15/10/2021,Porto Alegre Shop,Mousepad Gamer,1,90,90,40,Rio Grande do Sul,Sul
+741,24/09/2021,Manaus Digital,Teclado Mecânico Redragon,2,350,700,220,Amazonas,Norte
+742,30/08/2021,Fortaleza Tech,"Monitor Samsung 27""",3,1350,4050,980,Ceará,Nordeste
+743,14/10/2021,SP Market,Mouse Logitech,2,180,360,80,São Paulo,Sudeste
+744,07/10/2021,Porto Alegre Shop,Microfone Condensador,1,260,260,170,Rio Grande do Sul,Sul
+745,28/08/2021,BH Mall,"Monitor Samsung 27""",1,1350,1350,980,Minas Gerais,Sudeste
+746,22/09/2021,RJ Centro,Headset HyperX,1,420,420,260,Rio de Janeiro,Sudeste
+747,20/09/2021,SP Market,Mousepad Gamer,1,90,90,40,São Paulo,Sudeste
+748,31/08/2021,RJ Centro,Mouse Logitech,2,180,360,80,Rio de Janeiro,Sudeste
+749,22/08/2021,Curitiba Tech,Memória RAM 16GB,1,480,480,330,Paraná,Sul
+750,07/09/2021,Curitiba Tech,"Monitor LG 24""",1,950,950,720,Paraná,Sul
+751,23/08/2021,BH Mall,HD Externo 2TB,3,450,1350,320,Minas Gerais,Sudeste
+752,19/09/2021,SP Market,Teclado sem fio Logitech,1,290,290,190,São Paulo,Sudeste
+753,31/08/2021,Belém Info,Cadeira Gamer,3,1550,4650,1100,Pará,Norte
+754,16/10/2021,Salvador Store,Microfone Condensador,1,260,260,170,Bahia,Nordeste
+755,19/09/2021,Fortaleza Tech,Microfone Condensador,2,260,520,170,Ceará,Nordeste
+756,01/09/2021,Manaus Digital,"Monitor Samsung 27""",3,1350,4050,980,Amazonas,Norte
+757,28/08/2021,Manaus Digital,SSD Kingston 1TB,3,520,1560,380,Amazonas,Norte
+758,07/10/2021,RJ Centro,Headset HyperX,1,420,420,260,Rio de Janeiro,Sudeste
+759,01/10/2021,Fortaleza Tech,Mousepad Gamer,3,90,270,40,Ceará,Nordeste
+760,20/08/2021,SP Market,"Monitor LG 24""",2,950,1900,720,São Paulo,Sudeste
+761,28/09/2021,Curitiba Tech,"Monitor Samsung 27""",2,1350,2700,980,Paraná,Sul
+762,16/10/2021,Belém Info,Cadeira Gamer,1,1550,1550,1100,Pará,Norte
+763,17/09/2021,Curitiba Tech,SSD Kingston 1TB,1,520,520,380,Paraná,Sul
+764,03/10/2021,Salvador Store,HD Externo 2TB,2,450,900,320,Bahia,Nordeste
+765,13/09/2021,Fortaleza Tech,Notebook Dell i5,3,4200,12600,3500,Ceará,Nordeste
+766,22/09/2021,Fortaleza Tech,Teclado Mecânico Redragon,1,350,350,220,Ceará,Nordeste
+767,25/08/2021,SP Market,Teclado Mecânico Redragon,1,350,350,220,São Paulo,Sudeste
+768,15/10/2021,Porto Alegre Shop,Teclado sem fio Logitech,1,290,290,190,Rio Grande do Sul,Sul
+769,16/09/2021,Porto Alegre Shop,Memória RAM 16GB,2,480,960,330,Rio Grande do Sul,Sul
+770,03/10/2021,Curitiba Tech,SSD Kingston 1TB,1,520,520,380,Paraná,Sul
+771,06/09/2021,Belém Info,Mouse Logitech,2,180,360,80,Pará,Norte
+772,11/10/2021,Belém Info,Microfone Condensador,2,260,520,170,Pará,Norte
+773,27/08/2021,Salvador Store,Teclado Mecânico Redragon,1,350,350,220,Bahia,Nordeste
+774,19/10/2021,SP Market,HD Externo 2TB,2,450,900,320,São Paulo,Sudeste
+775,12/09/2021,Recife Center,Mousepad Gamer,2,90,180,40,Pernambuco,Nordeste
+776,26/08/2021,Curitiba Tech,Headset HyperX,2,420,840,260,Paraná,Sul
+777,25/08/2021,Curitiba Tech,HD Externo 2TB,2,450,900,320,Paraná,Sul
+778,19/10/2021,Manaus Digital,SSD Kingston 1TB,1,520,520,380,Amazonas,Norte
+779,21/08/2021,Recife Center,Mousepad Gamer,3,90,270,40,Pernambuco,Nordeste
+780,30/08/2021,Fortaleza Tech,Notebook Dell i5,3,4200,12600,3500,Ceará,Nordeste
+781,18/10/2021,SP Market,Teclado sem fio Logitech,3,290,870,190,São Paulo,Sudeste
+782,02/09/2021,Recife Center,Webcam Full HD,2,310,620,210,Pernambuco,Nordeste
+783,01/09/2021,Porto Alegre Shop,Microfone Condensador,3,260,780,170,Rio Grande do Sul,Sul
+784,03/09/2021,BH Mall,Teclado Mecânico Redragon,2,350,700,220,Minas Gerais,Sudeste
+785,06/10/2021,Curitiba Tech,SSD Kingston 1TB,3,520,1560,380,Paraná,Sul
+786,24/08/2021,SP Market,"Monitor Samsung 27""",3,1350,4050,980,São Paulo,Sudeste
+787,27/08/2021,Porto Alegre Shop,Mousepad Gamer,2,90,180,40,Rio Grande do Sul,Sul
+788,17/09/2021,Manaus Digital,"Monitor Samsung 27""",1,1350,1350,980,Amazonas,Norte
+789,17/10/2021,Fortaleza Tech,HD Externo 2TB,1,450,450,320,Ceará,Nordeste
+790,19/09/2021,BH Mall,Mousepad Gamer,1,90,90,40,Minas Gerais,Sudeste
+791,29/09/2021,BH Mall,"Monitor LG 24""",2,950,1900,720,Minas Gerais,Sudeste
+792,07/09/2021,SP Market,Mousepad Gamer,3,90,270,40,São Paulo,Sudeste
+793,20/08/2021,Belém Info,Headset HyperX,3,420,1260,260,Pará,Norte
+794,20/09/2021,Manaus Digital,Cadeira Gamer,1,1550,1550,1100,Amazonas,Norte
+795,16/09/2021,Belém Info,Mousepad Gamer,3,90,270,40,Pará,Norte
+796,27/08/2021,Belém Info,"Monitor Samsung 27""",3,1350,4050,980,Pará,Norte
+797,03/10/2021,Salvador Store,Teclado sem fio Logitech,1,290,290,190,Bahia,Nordeste
+798,26/08/2021,BH Mall,"Monitor Samsung 27""",3,1350,4050,980,Minas Gerais,Sudeste
+799,08/10/2021,Salvador Store,HD Externo 2TB,3,450,1350,320,Bahia,Nordeste
+800,30/08/2021,Porto Alegre Shop,HD Externo 2TB,3,450,1350,320,Rio Grande do Sul,Sul
+801,23/08/2021,Belém Info,Mousepad Gamer,2,90,180,40,Pará,Norte
+802,22/08/2021,Belém Info,Notebook Dell i5,1,4200,4200,3500,Pará,Norte
+803,05/09/2021,BH Mall,Memória RAM 16GB,3,480,1440,330,Minas Gerais,Sudeste
+804,06/10/2021,Salvador Store,Microfone Condensador,2,260,520,170,Bahia,Nordeste
+805,06/09/2021,Belém Info,Teclado sem fio Logitech,1,290,290,190,Pará,Norte
+806,13/09/2021,RJ Centro,HD Externo 2TB,2,450,900,320,Rio de Janeiro,Sudeste
+807,29/09/2021,Recife Center,Memória RAM 16GB,3,480,1440,330,Pernambuco,Nordeste
+808,06/10/2021,SP Market,Cadeira Gamer,2,1550,3100,1100,São Paulo,Sudeste
+809,23/09/2021,Curitiba Tech,Teclado Mecânico Redragon,1,350,350,220,Paraná,Sul
+810,17/10/2021,Salvador Store,HD Externo 2TB,3,450,1350,320,Bahia,Nordeste
+811,23/09/2021,Fortaleza Tech,Mousepad Gamer,3,90,270,40,Ceará,Nordeste
+812,11/10/2021,Manaus Digital,Teclado sem fio Logitech,3,290,870,190,Amazonas,Norte
+813,23/08/2021,BH Mall,HD Externo 2TB,2,450,900,320,Minas Gerais,Sudeste
+814,02/09/2021,Belém Info,"Monitor LG 24""",3,950,2850,720,Pará,Norte
+815,30/09/2021,BH Mall,Microfone Condensador,2,260,520,170,Minas Gerais,Sudeste
+816,08/10/2021,Belém Info,Memória RAM 16GB,1,480,480,330,Pará,Norte
+817,01/09/2021,RJ Centro,Mouse Logitech,1,180,180,80,Rio de Janeiro,Sudeste
+818,16/10/2021,Salvador Store,SSD Kingston 1TB,1,520,520,380,Bahia,Nordeste
+819,06/09/2021,Belém Info,"Monitor LG 24""",2,950,1900,720,Pará,Norte
+820,16/09/2021,Fortaleza Tech,Notebook Dell i5,3,4200,12600,3500,Ceará,Nordeste
+821,09/10/2021,Fortaleza Tech,Microfone Condensador,2,260,520,170,Ceará,Nordeste
+822,18/09/2021,Salvador Store,Teclado Mecânico Redragon,1,350,350,220,Bahia,Nordeste
+823,24/08/2021,Salvador Store,Mousepad Gamer,1,90,90,40,Bahia,Nordeste
+824,28/09/2021,Belém Info,Webcam Full HD,3,310,930,210,Pará,Norte
+825,06/09/2021,SP Market,Webcam Full HD,2,310,620,210,São Paulo,Sudeste
+826,18/10/2021,Porto Alegre Shop,Cadeira Gamer,1,1550,1550,1100,Rio Grande do Sul,Sul
+827,30/09/2021,SP Market,Headset HyperX,2,420,840,260,São Paulo,Sudeste
+828,22/09/2021,Fortaleza Tech,Memória RAM 16GB,1,480,480,330,Ceará,Nordeste
+829,20/09/2021,Manaus Digital,Microfone Condensador,1,260,260,170,Amazonas,Norte
+830,05/10/2021,Manaus Digital,Memória RAM 16GB,3,480,1440,330,Amazonas,Norte
+831,27/08/2021,Fortaleza Tech,Mouse Logitech,2,180,360,80,Ceará,Nordeste
+832,02/10/2021,BH Mall,Memória RAM 16GB,1,480,480,330,Minas Gerais,Sudeste
+833,25/09/2021,Salvador Store,"Monitor Samsung 27""",1,1350,1350,980,Bahia,Nordeste
+834,08/10/2021,SP Market,"Monitor LG 24""",1,950,950,720,São Paulo,Sudeste
+835,12/09/2021,Recife Center,SSD Kingston 1TB,1,520,520,380,Pernambuco,Nordeste
+836,15/09/2021,Fortaleza Tech,Microfone Condensador,2,260,520,170,Ceará,Nordeste
+837,06/10/2021,Recife Center,Cadeira Gamer,1,1550,1550,1100,Pernambuco,Nordeste
+838,08/10/2021,SP Market,Teclado sem fio Logitech,3,290,870,190,São Paulo,Sudeste
+839,28/08/2021,Salvador Store,SSD Kingston 1TB,2,520,1040,380,Bahia,Nordeste
+840,07/09/2021,RJ Centro,Headset HyperX,1,420,420,260,Rio de Janeiro,Sudeste
+841,05/10/2021,RJ Centro,Mousepad Gamer,1,90,90,40,Rio de Janeiro,Sudeste
+842,20/08/2021,Fortaleza Tech,Microfone Condensador,2,260,520,170,Ceará,Nordeste
+843,10/10/2021,BH Mall,Webcam Full HD,2,310,620,210,Minas Gerais,Sudeste
+844,21/08/2021,Curitiba Tech,"Monitor LG 24""",1,950,950,720,Paraná,Sul
+845,01/10/2021,Curitiba Tech,HD Externo 2TB,2,450,900,320,Paraná,Sul
+846,31/08/2021,Recife Center,Teclado Mecânico Redragon,3,350,1050,220,Pernambuco,Nordeste
+847,29/08/2021,Porto Alegre Shop,Notebook Dell i5,1,4200,4200,3500,Rio Grande do Sul,Sul
+848,02/10/2021,Fortaleza Tech,"Monitor Samsung 27""",3,1350,4050,980,Ceará,Nordeste
+849,23/08/2021,Manaus Digital,Microfone Condensador,3,260,780,170,Amazonas,Norte
+850,18/10/2021,Manaus Digital,Memória RAM 16GB,3,480,1440,330,Amazonas,Norte
+851,17/09/2021,Fortaleza Tech,SSD Kingston 1TB,3,520,1560,380,Ceará,Nordeste
+852,27/08/2021,Porto Alegre Shop,Mousepad Gamer,2,90,180,40,Rio Grande do Sul,Sul
+853,13/10/2021,Belém Info,Teclado Mecânico Redragon,3,350,1050,220,Pará,Norte
+854,12/10/2021,Belém Info,Cadeira Gamer,2,1550,3100,1100,Pará,Norte
+855,05/10/2021,Salvador Store,Teclado sem fio Logitech,1,290,290,190,Bahia,Nordeste
+856,12/09/2021,Recife Center,SSD Kingston 1TB,1,520,520,380,Pernambuco,Nordeste
+857,28/09/2021,Belém Info,Mousepad Gamer,3,90,270,40,Pará,Norte
+858,12/10/2021,Manaus Digital,SSD Kingston 1TB,1,520,520,380,Amazonas,Norte
+859,03/09/2021,SP Market,Notebook Dell i5,3,4200,12600,3500,São Paulo,Sudeste
+860,06/09/2021,Manaus Digital,Headset HyperX,1,420,420,260,Amazonas,Norte
+861,29/09/2021,Manaus Digital,Teclado Mecânico Redragon,1,350,350,220,Amazonas,Norte
+862,20/08/2021,Fortaleza Tech,Teclado Mecânico Redragon,3,350,1050,220,Ceará,Nordeste
+863,14/09/2021,BH Mall,Teclado sem fio Logitech,3,290,870,190,Minas Gerais,Sudeste
+864,22/09/2021,SP Market,Mouse Logitech,2,180,360,80,São Paulo,Sudeste
+865,18/10/2021,Salvador Store,Notebook Dell i5,1,4200,4200,3500,Bahia,Nordeste
+866,27/09/2021,Salvador Store,SSD Kingston 1TB,1,520,520,380,Bahia,Nordeste
+867,20/08/2021,Fortaleza Tech,Teclado Mecânico Redragon,2,350,700,220,Ceará,Nordeste
+868,27/09/2021,Manaus Digital,Teclado sem fio Logitech,2,290,580,190,Amazonas,Norte
+869,13/09/2021,Manaus Digital,"Monitor Samsung 27""",2,1350,2700,980,Amazonas,Norte
+870,26/09/2021,SP Market,Headset HyperX,1,420,420,260,São Paulo,Sudeste
+871,02/09/2021,Salvador Store,Webcam Full HD,1,310,310,210,Bahia,Nordeste
+872,05/10/2021,Recife Center,Mousepad Gamer,2,90,180,40,Pernambuco,Nordeste
+873,29/09/2021,Curitiba Tech,Microfone Condensador,1,260,260,170,Paraná,Sul
+874,05/09/2021,SP Market,Notebook Dell i5,1,4200,4200,3500,São Paulo,Sudeste
+875,16/10/2021,Salvador Store,Cadeira Gamer,2,1550,3100,1100,Bahia,Nordeste
+876,25/09/2021,SP Market,Teclado sem fio Logitech,2,290,580,190,São Paulo,Sudeste
+877,04/09/2021,Curitiba Tech,Teclado Mecânico Redragon,1,350,350,220,Paraná,Sul
+878,02/09/2021,BH Mall,Teclado sem fio Logitech,1,290,290,190,Minas Gerais,Sudeste
+879,19/09/2021,Salvador Store,"Monitor LG 24""",1,950,950,720,Bahia,Nordeste
+880,30/09/2021,SP Market,SSD Kingston 1TB,1,520,520,380,São Paulo,Sudeste
+881,16/09/2021,BH Mall,Teclado sem fio Logitech,3,290,870,190,Minas Gerais,Sudeste
+882,08/09/2021,Fortaleza Tech,"Monitor LG 24""",2,950,1900,720,Ceará,Nordeste
+883,05/09/2021,Belém Info,"Monitor LG 24""",2,950,1900,720,Pará,Norte
+884,21/09/2021,Porto Alegre Shop,Notebook Dell i5,3,4200,12600,3500,Rio Grande do Sul,Sul
+885,26/09/2021,SP Market,HD Externo 2TB,1,450,450,320,São Paulo,Sudeste
+886,11/10/2021,Belém Info,"Monitor Samsung 27""",2,1350,2700,980,Pará,Norte
+887,21/08/2021,Porto Alegre Shop,Headset HyperX,1,420,420,260,Rio Grande do Sul,Sul
+888,28/09/2021,Belém Info,Cadeira Gamer,1,1550,1550,1100,Pará,Norte
+889,06/10/2021,RJ Centro,Teclado sem fio Logitech,2,290,580,190,Rio de Janeiro,Sudeste
+890,19/10/2021,Fortaleza Tech,Notebook Dell i5,2,4200,8400,3500,Ceará,Nordeste
+891,09/10/2021,SP Market,"Monitor LG 24""",3,950,2850,720,São Paulo,Sudeste
+892,06/10/2021,Belém Info,Headset HyperX,3,420,1260,260,Pará,Norte
+893,27/08/2021,SP Market,"Monitor Samsung 27""",1,1350,1350,980,São Paulo,Sudeste
+894,26/09/2021,Recife Center,"Monitor LG 24""",1,950,950,720,Pernambuco,Nordeste
+895,07/10/2021,Fortaleza Tech,Headset HyperX,1,420,420,260,Ceará,Nordeste
+896,17/09/2021,Curitiba Tech,Teclado Mecânico Redragon,2,350,700,220,Paraná,Sul
+897,20/09/2021,Belém Info,Cadeira Gamer,2,1550,3100,1100,Pará,Norte
+898,11/10/2021,Curitiba Tech,Webcam Full HD,3,310,930,210,Paraná,Sul
+899,08/09/2021,Manaus Digital,Notebook Dell i5,1,4200,4200,3500,Amazonas,Norte
+900,14/09/2021,Recife Center,Teclado sem fio Logitech,2,290,580,190,Pernambuco,Nordeste
+901,06/10/2021,BH Mall,"Monitor Samsung 27""",2,1350,2700,980,Minas Gerais,Sudeste
+902,05/10/2021,Salvador Store,Memória RAM 16GB,1,480,480,330,Bahia,Nordeste
+903,01/10/2021,Belém Info,Teclado sem fio Logitech,3,290,870,190,Pará,Norte
+904,27/08/2021,Fortaleza Tech,Headset HyperX,2,420,840,260,Ceará,Nordeste
+905,18/09/2021,Salvador Store,Teclado sem fio Logitech,2,290,580,190,Bahia,Nordeste
+906,10/10/2021,RJ Centro,Teclado sem fio Logitech,1,290,290,190,Rio de Janeiro,Sudeste
+907,27/08/2021,RJ Centro,Mousepad Gamer,1,90,90,40,Rio de Janeiro,Sudeste
+908,22/09/2021,Recife Center,Memória RAM 16GB,2,480,960,330,Pernambuco,Nordeste
+909,31/08/2021,Belém Info,Teclado Mecânico Redragon,2,350,700,220,Pará,Norte
+910,26/08/2021,Belém Info,Cadeira Gamer,2,1550,3100,1100,Pará,Norte
+911,30/08/2021,Salvador Store,Cadeira Gamer,2,1550,3100,1100,Bahia,Nordeste
+912,17/10/2021,RJ Centro,Teclado Mecânico Redragon,1,350,350,220,Rio de Janeiro,Sudeste
+913,27/09/2021,BH Mall,Mousepad Gamer,2,90,180,40,Minas Gerais,Sudeste
+914,28/09/2021,Fortaleza Tech,Teclado sem fio Logitech,2,290,580,190,Ceará,Nordeste
+915,01/09/2021,Belém Info,Teclado sem fio Logitech,2,290,580,190,Pará,Norte
+916,10/09/2021,Manaus Digital,Cadeira Gamer,3,1550,4650,1100,Amazonas,Norte
+917,24/09/2021,Manaus Digital,"Monitor LG 24""",2,950,1900,720,Amazonas,Norte
+918,27/08/2021,RJ Centro,Notebook Dell i5,1,4200,4200,3500,Rio de Janeiro,Sudeste
+919,25/08/2021,Recife Center,Mouse Logitech,2,180,360,80,Pernambuco,Nordeste
+920,06/09/2021,Belém Info,Webcam Full HD,1,310,310,210,Pará,Norte
+921,30/09/2021,Salvador Store,Teclado sem fio Logitech,3,290,870,190,Bahia,Nordeste
+922,08/09/2021,Fortaleza Tech,Cadeira Gamer,1,1550,1550,1100,Ceará,Nordeste
+923,24/08/2021,Salvador Store,"Monitor Samsung 27""",2,1350,2700,980,Bahia,Nordeste
+924,19/09/2021,Fortaleza Tech,"Monitor Samsung 27""",3,1350,4050,980,Ceará,Nordeste
+925,15/10/2021,Salvador Store,Notebook Dell i5,3,4200,12600,3500,Bahia,Nordeste
+926,11/09/2021,RJ Centro,Cadeira Gamer,1,1550,1550,1100,Rio de Janeiro,Sudeste
+927,30/08/2021,Fortaleza Tech,Teclado sem fio Logitech,1,290,290,190,Ceará,Nordeste
+928,01/10/2021,Recife Center,Webcam Full HD,1,310,310,210,Pernambuco,Nordeste
+929,13/10/2021,SP Market,Microfone Condensador,1,260,260,170,São Paulo,Sudeste
+930,01/10/2021,RJ Centro,Teclado Mecânico Redragon,1,350,350,220,Rio de Janeiro,Sudeste
+931,15/10/2021,Fortaleza Tech,Webcam Full HD,1,310,310,210,Ceará,Nordeste
+932,23/09/2021,Manaus Digital,Teclado sem fio Logitech,1,290,290,190,Amazonas,Norte
+933,30/08/2021,Belém Info,Teclado Mecânico Redragon,1,350,350,220,Pará,Norte
+934,25/08/2021,Recife Center,Microfone Condensador,2,260,520,170,Pernambuco,Nordeste
+935,20/08/2021,Fortaleza Tech,Mouse Logitech,2,180,360,80,Ceará,Nordeste
+936,11/09/2021,Porto Alegre Shop,Teclado sem fio Logitech,3,290,870,190,Rio Grande do Sul,Sul
+937,23/09/2021,Fortaleza Tech,Memória RAM 16GB,3,480,1440,330,Ceará,Nordeste
+938,18/09/2021,Manaus Digital,Memória RAM 16GB,2,480,960,330,Amazonas,Norte
+939,08/09/2021,Curitiba Tech,SSD Kingston 1TB,2,520,1040,380,Paraná,Sul
+940,24/09/2021,Porto Alegre Shop,Headset HyperX,2,420,840,260,Rio Grande do Sul,Sul
+941,04/10/2021,RJ Centro,Teclado Mecânico Redragon,1,350,350,220,Rio de Janeiro,Sudeste
+942,15/10/2021,SP Market,"Monitor LG 24""",3,950,2850,720,São Paulo,Sudeste
+943,21/09/2021,Salvador Store,Teclado sem fio Logitech,1,290,290,190,Bahia,Nordeste
+944,06/10/2021,Manaus Digital,HD Externo 2TB,2,450,900,320,Amazonas,Norte
+945,25/08/2021,Manaus Digital,Notebook Dell i5,1,4200,4200,3500,Amazonas,Norte
+946,26/09/2021,Recife Center,Notebook Dell i5,3,4200,12600,3500,Pernambuco,Nordeste
+947,19/10/2021,Curitiba Tech,Teclado Mecânico Redragon,2,350,700,220,Paraná,Sul
+948,13/09/2021,SP Market,"Monitor Samsung 27""",2,1350,2700,980,São Paulo,Sudeste
+949,26/08/2021,Porto Alegre Shop,Headset HyperX,2,420,840,260,Rio Grande do Sul,Sul
+950,15/09/2021,Recife Center,Cadeira Gamer,1,1550,1550,1100,Pernambuco,Nordeste
+951,17/09/2021,Curitiba Tech,Notebook Dell i5,1,4200,4200,3500,Paraná,Sul
+952,25/09/2021,SP Market,Teclado sem fio Logitech,2,290,580,190,São Paulo,Sudeste
+953,16/10/2021,Manaus Digital,"Monitor Samsung 27""",1,1350,1350,980,Amazonas,Norte
+954,02/09/2021,Salvador Store,Cadeira Gamer,3,1550,4650,1100,Bahia,Nordeste
+955,26/09/2021,Fortaleza Tech,Memória RAM 16GB,3,480,1440,330,Ceará,Nordeste
+956,27/09/2021,Porto Alegre Shop,Webcam Full HD,1,310,310,210,Rio Grande do Sul,Sul
+957,14/09/2021,Porto Alegre Shop,Notebook Dell i5,2,4200,8400,3500,Rio Grande do Sul,Sul
+958,12/09/2021,Recife Center,Mousepad Gamer,3,90,270,40,Pernambuco,Nordeste
+959,28/09/2021,RJ Centro,Teclado Mecânico Redragon,3,350,1050,220,Rio de Janeiro,Sudeste
+960,13/10/2021,Curitiba Tech,Mouse Logitech,2,180,360,80,Paraná,Sul
+961,11/10/2021,SP Market,Webcam Full HD,2,310,620,210,São Paulo,Sudeste
+962,14/09/2021,Fortaleza Tech,"Monitor Samsung 27""",1,1350,1350,980,Ceará,Nordeste
+963,23/09/2021,Fortaleza Tech,Headset HyperX,1,420,420,260,Ceará,Nordeste
+964,25/09/2021,RJ Centro,"Monitor Samsung 27""",3,1350,4050,980,Rio de Janeiro,Sudeste
+965,30/08/2021,Fortaleza Tech,"Monitor LG 24""",2,950,1900,720,Ceará,Nordeste
+966,24/08/2021,Recife Center,"Monitor LG 24""",1,950,950,720,Pernambuco,Nordeste
+967,19/10/2021,Fortaleza Tech,Mouse Logitech,2,180,360,80,Ceará,Nordeste
+968,15/10/2021,Manaus Digital,Teclado sem fio Logitech,3,290,870,190,Amazonas,Norte
+969,26/08/2021,RJ Centro,"Monitor LG 24""",1,950,950,720,Rio de Janeiro,Sudeste
+970,24/09/2021,SP Market,Memória RAM 16GB,3,480,1440,330,São Paulo,Sudeste
+971,15/09/2021,Belém Info,Webcam Full HD,1,310,310,210,Pará,Norte
+972,23/08/2021,Porto Alegre Shop,Mousepad Gamer,2,90,180,40,Rio Grande do Sul,Sul
+973,06/09/2021,RJ Centro,Notebook Dell i5,1,4200,4200,3500,Rio de Janeiro,Sudeste
+974,05/10/2021,Belém Info,Microfone Condensador,1,260,260,170,Pará,Norte
+975,04/10/2021,Manaus Digital,Webcam Full HD,2,310,620,210,Amazonas,Norte
+976,29/09/2021,Manaus Digital,Teclado sem fio Logitech,3,290,870,190,Amazonas,Norte
+977,25/08/2021,Recife Center,Microfone Condensador,2,260,520,170,Pernambuco,Nordeste
+978,12/10/2021,Porto Alegre Shop,Memória RAM 16GB,3,480,1440,330,Rio Grande do Sul,Sul
+979,30/09/2021,Porto Alegre Shop,Webcam Full HD,3,310,930,210,Rio Grande do Sul,Sul
+980,27/09/2021,Fortaleza Tech,Mouse Logitech,2,180,360,80,Ceará,Nordeste
+981,26/08/2021,Porto Alegre Shop,"Monitor Samsung 27""",2,1350,2700,980,Rio Grande do Sul,Sul
+982,28/08/2021,RJ Centro,"Monitor Samsung 27""",2,1350,2700,980,Rio de Janeiro,Sudeste
+983,21/08/2021,Manaus Digital,HD Externo 2TB,1,450,450,320,Amazonas,Norte
+984,26/09/2021,Salvador Store,"Monitor Samsung 27""",2,1350,2700,980,Bahia,Nordeste
+985,07/10/2021,SP Market,"Monitor Samsung 27""",2,1350,2700,980,São Paulo,Sudeste
+986,12/09/2021,RJ Centro,Mouse Logitech,3,180,540,80,Rio de Janeiro,Sudeste
+987,04/09/2021,Salvador Store,Webcam Full HD,3,310,930,210,Bahia,Nordeste
+988,01/09/2021,Porto Alegre Shop,Headset HyperX,1,420,420,260,Rio Grande do Sul,Sul
+989,30/08/2021,RJ Centro,Headset HyperX,3,420,1260,260,Rio de Janeiro,Sudeste
+990,24/09/2021,Fortaleza Tech,HD Externo 2TB,2,450,900,320,Ceará,Nordeste
+991,20/09/2021,Fortaleza Tech,Cadeira Gamer,3,1550,4650,1100,Ceará,Nordeste
+992,20/08/2021,Fortaleza Tech,Notebook Dell i5,3,4200,12600,3500,Ceará,Nordeste
+993,12/10/2021,Salvador Store,Memória RAM 16GB,1,480,480,330,Bahia,Nordeste
+994,06/10/2021,Porto Alegre Shop,Mousepad Gamer,3,90,270,40,Rio Grande do Sul,Sul
+995,01/10/2021,Salvador Store,Teclado Mecânico Redragon,2,350,700,220,Bahia,Nordeste
+996,01/10/2021,RJ Centro,Headset HyperX,3,420,1260,260,Rio de Janeiro,Sudeste
+997,02/10/2021,RJ Centro,Headset HyperX,1,420,420,260,Rio de Janeiro,Sudeste
+998,28/09/2021,Fortaleza Tech,"Monitor Samsung 27""",1,1350,1350,980,Ceará,Nordeste
+999,28/09/2021,Porto Alegre Shop,Teclado sem fio Logitech,3,290,870,190,Rio Grande do Sul,Sul
+1000,30/08/2021,SP Market,Memória RAM 16GB,3,480,1440,330,São Paulo,Sudeste
