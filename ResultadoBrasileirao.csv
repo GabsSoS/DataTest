@@ -1,0 +1,43 @@
+data,fase,time_casa,gols_casa,time_fora,gols_fora
+2025-02-18,1ª fase,Tocantinópolis-TO,0,Atlético-MG,2
+2025-02-18,1ª fase,União Rondonópolis-MT,0,Vasco da Gama,3
+2025-02-19,1ª fase,Tuna Luso-PA,1,Sampaio Corrêa-MA,0
+2025-02-19,1ª fase,Santa Cruz-RN,0,Náutico-PE,4
+2025-02-19,1ª fase,São Raimundo-RR,1,Grêmio-RS,1
+2025-02-19,1ª fase,Boavista-RJ,0,CSA-AL,1
+2025-02-19,1ª fase,Porto Velho-RO,0,Cuiabá-MT,0
+2025-02-19,1ª fase,Capital-DF,0,Portuguesa-RJ,0
+2025-02-19,1ª fase,Sergipe-SE,0,Ceará-CE,2
+2025-02-19,1ª fase,Trem-AP,0,Brusque-SC,2
+2025-02-19,1ª fase,Independência-AC,1,Manaus-AM,4
+2025-02-18,1ª fase,ASA-AL,1,Atlético-GO,1
+2025-02-26,1ª fase,FC Cascavel,1,América-MG,0
+2025-02-27,1ª fase,Ceilândia-DF,2,Coritiba-PR,2
+# --- Terceira fase (com resultados oficiais conhecidos) ---
+2025-04-29,3ª fase,Internacional,3,Maracanã-CE,0
+2025-05-21,3ª fase,Maracanã-CE,1,Internacional,2
+2025-04-29,3ª fase,Retrô-PE,1,Fortaleza,1
+2025-05-21,3ª fase,Fortaleza,0,Retrô-PE,0
+2025-04-29,3ª fase,Fluminense,4,Aparecidense-GO,0
+2025-05-21,3ª fase,Aparecidense-GO,1,Fluminense,2
+2025-04-29,3ª fase,São Paulo,2,Náutico,1
+2025-05-21,3ª fase,Náutico,1,São Paulo,2
+2025-04-30,3ª fase,Palmeiras,3,Ceará,0
+2025-05-22,3ª fase,Ceará,0,Palmeiras,1
+# --- Oitavas de final (estrutura e datas) ---
+2025-07-29,oitavas,Botafogo,?,Bragantino,?
+2025-07-29,oitavas,CSA,?,Vasco da Gama,?
+2025-07-29,oitavas,Bahia,?,Retrô-PE,?
+2025-07-29,oitavas,Cruzeiro,?,CRB,?
+2025-07-29,oitavas,Internacional,?,Fluminense,?
+2025-07-29,oitavas,Corinthians,?,Palmeiras,?
+2025-07-31,oitavas,São Paulo,?,Athletico-PR,?
+2025-07-31,oitavas,Flamengo,?,Atlético-MG,?
+# --- Semifinais (resultados conhecidos) ---
+2025-12-11,semifinal,Cruzeiro,0,Corinthians,1
+2025-12-14,semifinal,Cruzeiro,1,Corinthians,1
+2025-12-11,semifinal,Vasco da Gama,2,Fluminense,1
+2025-12-14,semifinal,Vasco da Gama,0,Fluminense,1
+# --- Final (resultados oficiais) ---
+2025-12-18,final,Corinthians,0,Vasco da Gama,0
+2025-12-21,final,Vasco da Gama,1,Corinthians,2
