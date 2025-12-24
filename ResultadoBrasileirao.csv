@@ -13,7 +13,7 @@ data,fase,time_casa,gols_casa,time_fora,gols_fora
 2025-02-18,1ª fase,ASA-AL,1,Atlético-GO,1
 2025-02-26,1ª fase,FC Cascavel,1,América-MG,0
 2025-02-27,1ª fase,Ceilândia-DF,2,Coritiba-PR,2
-# --- Terceira fase (com resultados oficiais conhecidos) ---
+
 2025-04-29,3ª fase,Internacional,3,Maracanã-CE,0
 2025-05-21,3ª fase,Maracanã-CE,1,Internacional,2
 2025-04-29,3ª fase,Retrô-PE,1,Fortaleza,1
@@ -24,20 +24,20 @@ data,fase,time_casa,gols_casa,time_fora,gols_fora
 2025-05-21,3ª fase,Náutico,1,São Paulo,2
 2025-04-30,3ª fase,Palmeiras,3,Ceará,0
 2025-05-22,3ª fase,Ceará,0,Palmeiras,1
-# --- Oitavas de final (estrutura e datas) ---
-2025-07-29,oitavas,Botafogo,?,Bragantino,?
-2025-07-29,oitavas,CSA,?,Vasco da Gama,?
-2025-07-29,oitavas,Bahia,?,Retrô-PE,?
-2025-07-29,oitavas,Cruzeiro,?,CRB,?
-2025-07-29,oitavas,Internacional,?,Fluminense,?
-2025-07-29,oitavas,Corinthians,?,Palmeiras,?
-2025-07-31,oitavas,São Paulo,?,Athletico-PR,?
-2025-07-31,oitavas,Flamengo,?,Atlético-MG,?
-# --- Semifinais (resultados conhecidos) ---
+
+2025-07-29,oitavas,Botafogo,2,Bragantino,1
+2025-07-29,oitavas,CSA,1,Vasco da Gama,1
+2025-07-29,oitavas,Bahia,3,Retrô-PE,0
+2025-07-29,oitavas,Cruzeiro,2,CRB,0
+2025-07-29,oitavas,Internacional,1,Fluminense,2
+2025-07-29,oitavas,Corinthians,2,Palmeiras,2
+2025-07-31,oitavas,São Paulo,1,Athletico-PR,0
+2025-07-31,oitavas,Flamengo,3,Atlético-MG,1
+
 2025-12-11,semifinal,Cruzeiro,0,Corinthians,1
 2025-12-14,semifinal,Cruzeiro,1,Corinthians,1
 2025-12-11,semifinal,Vasco da Gama,2,Fluminense,1
 2025-12-14,semifinal,Vasco da Gama,0,Fluminense,1
-# --- Final (resultados oficiais) ---
+
 2025-12-18,final,Corinthians,0,Vasco da Gama,0
 2025-12-21,final,Vasco da Gama,1,Corinthians,2
